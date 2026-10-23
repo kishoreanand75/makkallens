@@ -24,7 +24,7 @@ export function ForYou() {
 
   return (
     <section className="bg-white px-4 py-10 sm:px-6 sm:py-12" aria-labelledby="foryou">
-      <div className="mx-auto max-w-6xl">
+      <div className="mx-auto max-w-8xl">
         <Reveal>
           <p className="font-display text-base font-semibold text-brand">
             {hasHistory ? <T v={{ ta: "நீங்கள் தேடியதன் அடிப்படையில்", en: "Based on what you looked at" }} /> : personal ? <T v={{ ta: "உங்கள் சுயவிவரத்தின் அடிப்படையில்", en: "Based on your profile" }} /> : <T v={{ ta: "பலரும் பார்க்கும் திட்டங்கள்", en: "Popular schemes" }} />}

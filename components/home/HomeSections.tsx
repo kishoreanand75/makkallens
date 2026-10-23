@@ -52,7 +52,7 @@ export function HowSection() {
     <section id="how" className="relative overflow-hidden bg-tint px-4 py-10 sm:px-6 sm:py-12">
       <Watermark text="3" className="-right-2 -top-8 text-[16rem] text-brand/[0.07]" />
       <BgIcon name="doc" className="bottom-4 left-[40%] hidden size-24 text-brand/15 md:block" />
-      <div className="relative mx-auto max-w-6xl">
+      <div className="relative mx-auto max-w-8xl">
         <Heading kicker={{ ta: "எப்படி வேலை செய்கிறது", en: "How it works" }} title={{ ta: "மூன்று படிகளில்", en: "In three steps" }} />
         <ol className="mt-6 grid gap-4 md:grid-cols-3">
           {steps.map((s, i) => (
@@ -99,7 +99,7 @@ export function TopicsSection() {
     <section className="relative overflow-hidden bg-white px-4 py-10 sm:px-6 sm:py-12">
       <Watermark text="12" className="-right-4 top-0 text-[14rem] text-brand/[0.06] sm:text-[20rem]" />
       <BgIcon name="leaf" className="left-[45%] top-6 hidden size-24 text-brand/15 md:block" />
-      <div className="relative mx-auto max-w-6xl">
+      <div className="relative mx-auto max-w-8xl">
         <Heading kicker={{ ta: "முக்கியப் பகுதிகள்", en: "Main sections" }} title={{ ta: "என்ன உதவி வேண்டும்?", en: "What do you need help with?" }} sub={{ ta: "ஒரு பகுதியைத் தொடுங்கள் – தகுதி, ஆவணங்கள், விண்ணப்பம்.", en: "Open a section – eligibility, documents and applying." }} />
         <div className="mt-2">
           <TopicCarousel items={carouselTopics.map((id) => ({ topic: topics[id], count: counts[id] }))} />
@@ -164,7 +164,8 @@ export function GovBand() {
   ];
   return (
     <section className="relative overflow-hidden bg-white px-4 py-10 sm:px-6 sm:py-12">
-      <Watermark text="அரசு" className="-right-6 bottom-0 text-[12rem] text-info/[0.07] sm:text-[18rem]" />
+      <img src="/leaders/tn-vijay.jpg" className="absolute opacity-[0.1] left-0 top-0 size-full object-cover object-top" alt="" />
+      <Watermark text="அரசு" className="left-0 top-0 text-[12rem] text-info/[0.07] sm:text-[18rem]" />
       <BgIcon name="shield" className="left-[48%] top-4 hidden size-24 text-info/20 md:block" />
       <div className="relative mx-auto grid max-w-6xl items-center gap-8 lg:grid-cols-[1.4fr_1fr]">
         <Reveal variant="left">
@@ -185,7 +186,7 @@ export function GovBand() {
             <T v={{ ta: "தமிழ்நாடு அரசை அறிய", en: "Explore the Tamil Nadu government" }} /> <span aria-hidden="true">→</span>
           </Link>
         </Reveal>
-        <Reveal variant="right" className="mx-auto w-full max-w-[16rem]">
+        <Reveal variant="right" className="mx-auto w-full max-w-[24rem]">
           <Link href="/leaders" className="group block overflow-hidden rounded-xl border-2 border-ink bg-white hover:border-brand">
             <div className="relative aspect-[4/5] border-b-2 border-ink">
               <Image src="/photos/cm-tn.jpg" alt={tnCm.name.en} fill sizes="256px" className="object-cover object-top" />
@@ -222,7 +223,7 @@ export function TrustSection() {
   return (
     <section className="relative overflow-hidden bg-white px-4 pb-12 pt-10 sm:px-6">
       <BgIcon name="heart" className="right-6 top-6 hidden size-24 text-brand/15 md:block" />
-      <div className="relative mx-auto max-w-6xl">
+      <div className="relative mx-auto max-w-8xl">
         <Heading title={{ ta: "நம்பிக்கைக்கு மூன்று உறுதிகள்", en: "Three promises you can rely on" }} />
         <ul className="mt-6 grid gap-4 md:grid-cols-3">
           {trust.map((x, i) => (

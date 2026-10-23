@@ -83,7 +83,7 @@ export function Footer() {
 
       <div className="relative overflow-hidden bg-white">
         <BgIcon name="shield" className="right-[8%] top-10 hidden size-24 text-brand/15 lg:block" />
-        <div className="relative mx-auto max-w-6xl px-4 pb-28 pt-10 sm:px-6 lg:pb-6">
+        <div className="relative mx-auto max-w-8xl px-4 pb-28 pt-10 sm:px-6 lg:pb-6">
           <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.1fr_1.15fr_1.15fr_1.1fr]">
             <div>
               <Link href="/" className="inline-flex items-center gap-3">

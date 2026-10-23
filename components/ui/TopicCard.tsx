@@ -26,8 +26,11 @@ export function TopicCard({ topic, index, count, className = "" }: { topic: Topi
           ) : (
             <span />
           )}
-          <span aria-hidden="true" className="text-xl text-[color:var(--c)] transition-transform group-hover:translate-x-1">
-            →
+          <span className="inline-flex shrink-0 items-center gap-1 font-display text-sm font-semibold text-[color:var(--c)]">
+            <T v={{ ta: "பார்க்க", en: "Explore" }} />
+            <span aria-hidden="true" className="text-xl transition-transform group-hover:translate-x-1">
+              →
+            </span>
           </span>
         </div>
       </div>

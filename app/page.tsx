@@ -15,7 +15,7 @@ export default function Home() {
       <section className="relative overflow-hidden bg-white px-4 py-10 sm:px-6 sm:py-12" aria-labelledby="top-h">
         <Watermark text="50" className="-right-4 -top-6 text-[14rem] text-brand/[0.07] sm:text-[22rem]" />
         <BgIcon name="rupee" className="right-[30%] top-8 hidden size-24 text-brand/15 md:block" />
-        <div className="relative mx-auto max-w-6xl">
+        <div className="relative mx-auto max-w-8xl">
           <div id="top-h">
             <Top50Heading />
           </div>
@@ -27,11 +27,11 @@ export default function Home() {
           </Link>
         </div>
       </section>
+      <GovBand />
       <TopicsSection />
       <HowSection />
       <ForYou />
       <VoiceBand />
-      <GovBand />
       <TrustSection />
     </>
   );

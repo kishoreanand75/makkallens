@@ -16,8 +16,8 @@ const examples = [
 export function HomeHero() {
   return (
     <section className="relative isolate overflow-hidden bg-brand-dark text-white">
-      <Watermark text="அரசு" className="-bottom-10 -left-4 text-[11rem] text-white/[0.06] sm:text-[20rem]" />
-      <Watermark text="வழி" className="-top-6 right-2 hidden text-[14rem] text-white/[0.05] lg:block" />
+      <Watermark text="அரசு" className="top-0 right-0 text-[11rem] text-white/[0.06] sm:text-[20rem]" />
+      <Watermark text="வழி" className="-bottom-6 left-2 hidden text-[14rem] text-white/[0.05] lg:block" />
       <BgIcon name="doc" className="left-[46%] top-10 hidden size-28 text-white/15 lg:block" />
       <BgIcon name="rupee" className="bottom-8 left-[44%] hidden size-24 text-white/15 lg:block" />
       <BgIcon name="shield" className="right-10 top-1/2 hidden size-28 text-white/10 xl:block" />
