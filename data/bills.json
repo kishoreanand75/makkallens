@@ -1,0 +1,74 @@
+[
+ {
+  "id": "eb",
+  "name": {
+   "ta": "மின் கட்டணம் (TNPDCL / TNEB)",
+   "en": "Electricity bill (TNPDCL / TNEB)"
+  },
+  "url": "https://www.tnebltd.gov.in",
+  "tip": {
+   "ta": "நுகர்வோர் எண்ணை வைத்துச் செலுத்தலாம்.",
+   "en": "Pay using your consumer number."
+  }
+ },
+ {
+  "id": "property",
+  "name": {
+   "ta": "சொத்து வரி & குடிநீர் வரி (நகர்ப்புறம்)",
+   "en": "Property & water tax (urban)"
+  },
+  "url": "https://tnurbanepay.tn.gov.in",
+  "tip": {
+   "ta": "உங்கள் நகராட்சி / மாநகராட்சியைத் தேர்ந்தெடுக்கவும்.",
+   "en": "Choose your municipality / corporation."
+  }
+ },
+ {
+  "id": "chennai",
+  "name": {
+   "ta": "சென்னை மாநகராட்சி சேவைகள்",
+   "en": "Greater Chennai Corporation services"
+  },
+  "url": "https://chennaicorporation.gov.in",
+  "tip": {
+   "ta": "சொத்து வரி, சான்றிதழ்கள், புகார்கள்.",
+   "en": "Property tax, certificates and complaints."
+  }
+ },
+ {
+  "id": "vao",
+  "name": {
+   "ta": "நில ஆவணங்கள் (பட்டா, சிட்டா, FMB)",
+   "en": "Land records (patta, chitta, FMB)"
+  },
+  "url": "https://eservices.tn.gov.in",
+  "tip": {
+   "ta": "இணையத்தில் பார்வையிடலாம்.",
+   "en": "View online."
+  }
+ },
+ {
+  "id": "tnpds",
+  "name": {
+   "ta": "ரேஷன் (TNPDS)",
+   "en": "Ration (TNPDS)"
+  },
+  "url": "https://www.tnpds.gov.in",
+  "tip": {
+   "ta": "அட்டை நிலை, திருத்தம்.",
+   "en": "Card status and corrections."
+  }
+ },
+ {
+  "id": "esevai",
+  "name": {
+   "ta": "இ-சேவை மையச் சேவைகள்",
+   "en": "e-Sevai centre services"
+  },
+  "url": "https://www.tnesevai.tn.gov.in",
+  "tip": {
+   "ta": "சான்றிதழ்கள், விண்ணப்பங்கள்.",
+   "en": "Certificates and applications."
+  }
+ }
+]

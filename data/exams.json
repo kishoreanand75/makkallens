@@ -1,0 +1,402 @@
+[
+ {
+  "id": "tnpsc-g4",
+  "name": {
+   "ta": "TNPSC குரூப் 4",
+   "en": "TNPSC Group 4"
+  },
+  "body": {
+   "ta": "தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம்",
+   "en": "Tamil Nadu Public Service Commission"
+  },
+  "edu": "sslc",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "கிராம நிர்வாக அலுவலர் (VAO), இளநிலை உதவியாளர், தட்டச்சர் உள்ளிட்ட பணிகள்",
+   "en": "VAO, Junior Assistant, Typist and similar posts"
+  },
+  "ageNote": {
+   "ta": "வயது வரம்பு பிரிவு, பதவிக்கு ஏற்ப மாறும் – அறிவிப்பைப் பார்க்கவும்.",
+   "en": "Age limit varies by category and post – see the notification."
+  },
+  "syllabus": {
+   "ta": "பொதுத் தமிழ் / ஆங்கிலம், பொது அறிவு, திறனறிவு & மனக்கணக்கு (SSLC தரம்).",
+   "en": "General Tamil / English, General Studies, Aptitude & Mental Ability (SSLC standard)."
+  },
+  "url": "https://www.tnpsc.gov.in",
+  "keywords": [
+   "group4",
+   "tnpsc g4",
+   "vao",
+   "village administrative officer",
+   "குரூப்4"
+  ]
+ },
+ {
+  "id": "tnpsc-g2",
+  "name": {
+   "ta": "TNPSC குரூப் 2 / 2A",
+   "en": "TNPSC Group 2 / 2A"
+  },
+  "body": {
+   "ta": "தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம்",
+   "en": "Tamil Nadu Public Service Commission"
+  },
+  "edu": "degree",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "துணை வணிக வரி அலுவலர், நகராட்சி ஆணையர், உதவியாளர் உள்ளிட்ட பணிகள்",
+   "en": "Deputy Commercial Tax Officer, Municipal Commissioner, Assistant and similar posts"
+  },
+  "ageNote": {
+   "ta": "வயது வரம்பு பதவிக்கு ஏற்ப மாறும்.",
+   "en": "Age limit varies by post."
+  },
+  "syllabus": {
+   "ta": "முதல்நிலை: பொது அறிவு, திறனறிவு, தமிழ் தகுதித் தேர்வு; முதன்மை: விரிவான எழுத்துத் தேர்வு.",
+   "en": "Prelims: General Studies, Aptitude, Tamil eligibility; Mains: descriptive paper."
+  },
+  "url": "https://www.tnpsc.gov.in",
+  "keywords": [
+   "group2",
+   "group2a",
+   "tnpsc g2",
+   "குரூப்2"
+  ]
+ },
+ {
+  "id": "tnpsc-g1",
+  "name": {
+   "ta": "TNPSC குரூப் 1",
+   "en": "TNPSC Group 1"
+  },
+  "body": {
+   "ta": "தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம்",
+   "en": "Tamil Nadu Public Service Commission"
+  },
+  "edu": "degree",
+  "minAge": 21,
+  "maxAge": null,
+  "posts": {
+   "ta": "துணை ஆட்சியர், DSP, உதவி ஆணையர் போன்ற உயர் பணிகள்",
+   "en": "Deputy Collector, DSP, Assistant Commissioner and other senior posts"
+  },
+  "ageNote": {
+   "ta": "வயது வரம்பு பதவிக்கு ஏற்ப மாறும்.",
+   "en": "Age limit varies by post."
+  },
+  "syllabus": {
+   "ta": "முதல்நிலை, முதன்மை, நேர்காணல் என மூன்று நிலைகள்.",
+   "en": "Three stages: preliminary, main and interview."
+  },
+  "url": "https://www.tnpsc.gov.in",
+  "keywords": [
+   "group1",
+   "tnpsc g1",
+   "deputy collector",
+   "குரூப்1"
+  ]
+ },
+ {
+  "id": "tn-tet",
+  "name": {
+   "ta": "ஆசிரியர் தகுதித் தேர்வு (TN TET)",
+   "en": "Teacher Eligibility Test (TN TET)"
+  },
+  "body": {
+   "ta": "ஆசிரியர் தேர்வு வாரியம் (TRB)",
+   "en": "Teachers Recruitment Board (TRB)"
+  },
+  "edu": "diploma",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "தொடக்க / நடுநிலைப் பள்ளி ஆசிரியர் தகுதி",
+   "en": "Eligibility for primary / upper-primary teachers"
+  },
+  "ageNote": {
+   "ta": "தாள் 1க்கு D.T.Ed / தாள் 2க்கு பட்டம் + B.Ed ஆகிய தகுதிகள் தேவை.",
+   "en": "Paper 1 needs D.T.Ed; Paper 2 needs a degree + B.Ed."
+  },
+  "syllabus": {
+   "ta": "குழந்தை மேம்பாடு & கற்பித்தல், மொழிகள், கணிதம், சுற்றுச்சூழல் / சமூக அறிவியல்.",
+   "en": "Child development & pedagogy, languages, maths, environmental / social science."
+  },
+  "url": "https://trb.tn.gov.in",
+  "keywords": [
+   "tet",
+   "teacher eligibility",
+   "teacher",
+   "ஆசிரியர்",
+   "ஆசிரியர் தகுதித் தேர்வு"
+  ]
+ },
+ {
+  "id": "tnusrb-si",
+  "name": {
+   "ta": "TNUSRB காவல் உதவி ஆய்வாளர் (SI)",
+   "en": "TNUSRB Sub-Inspector of Police"
+  },
+  "body": {
+   "ta": "தமிழ்நாடு சீருடைப் பணியாளர் தேர்வு வாரியம்",
+   "en": "Tamil Nadu Uniformed Services Recruitment Board"
+  },
+  "edu": "degree",
+  "minAge": 20,
+  "maxAge": null,
+  "posts": {
+   "ta": "காவல் உதவி ஆய்வாளர்",
+   "en": "Sub-Inspector of Police"
+  },
+  "ageNote": {
+   "ta": "வயது, உடல் தகுதி விவரங்கள் அறிவிப்பில் இருக்கும்.",
+   "en": "Age and physical standards are in the notification."
+  },
+  "syllabus": {
+   "ta": "எழுத்துத் தேர்வு, உடல் தகுதி & உடல் திறன் தேர்வு, நேர்காணல்.",
+   "en": "Written test, physical standards & endurance test, interview."
+  },
+  "url": "https://www.tnusrb.tn.gov.in",
+  "keywords": [
+   "si",
+   "sub inspector",
+   "police si",
+   "காவல் உதவி ஆய்வாளர்",
+   "tnusrb"
+  ]
+ },
+ {
+  "id": "tnusrb-pc",
+  "name": {
+   "ta": "TNUSRB இரண்டாம் நிலைக் காவலர்",
+   "en": "TNUSRB Grade II Police Constable"
+  },
+  "body": {
+   "ta": "தமிழ்நாடு சீருடைப் பணியாளர் தேர்வு வாரியம்",
+   "en": "Tamil Nadu Uniformed Services Recruitment Board"
+  },
+  "edu": "hsc",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "காவலர், சிறைக் காவலர், தீயணைப்பு வீரர்",
+   "en": "Constable, jail warder, fireman"
+  },
+  "ageNote": {
+   "ta": "வயது, உடல் தகுதி விவரங்கள் அறிவிப்பில் இருக்கும்.",
+   "en": "Age and physical standards are in the notification."
+  },
+  "syllabus": {
+   "ta": "எழுத்துத் தேர்வு, உடல் திறன் தேர்வு.",
+   "en": "Written test and physical efficiency test."
+  },
+  "url": "https://www.tnusrb.tn.gov.in",
+  "keywords": [
+   "constable",
+   "police constable",
+   "காவலர்",
+   "tnusrb",
+   "fireman"
+  ]
+ },
+ {
+  "id": "upsc-cse",
+  "name": {
+   "ta": "UPSC குடிமைப் பணித் தேர்வு (IAS/IPS)",
+   "en": "UPSC Civil Services (IAS/IPS)"
+  },
+  "body": {
+   "ta": "மத்தியப் பணியாளர் தேர்வாணையம்",
+   "en": "Union Public Service Commission"
+  },
+  "edu": "degree",
+  "minAge": 21,
+  "maxAge": 32,
+  "posts": {
+   "ta": "IAS, IPS, IFS உள்ளிட்ட மத்திய சேவைகள்",
+   "en": "IAS, IPS, IFS and other central services"
+  },
+  "ageNote": {
+   "ta": "பொதுப் பிரிவு 21–32; SC/ST, OBC-க்குத் தளர்வு உண்டு; முயற்சிகளுக்கு வரம்பு உண்டு.",
+   "en": "General 21–32; relaxation for SC/ST and OBC; attempts are limited."
+  },
+  "syllabus": {
+   "ta": "முதல்நிலை (பொது அறிவு, CSAT), முதன்மை (9 தாள்கள்), நேர்காணல்.",
+   "en": "Prelims (GS, CSAT), Mains (9 papers), interview."
+  },
+  "url": "https://upsc.gov.in",
+  "keywords": [
+   "upsc",
+   "ias",
+   "ips",
+   "civil services",
+   "ஐஏஎஸ்"
+  ]
+ },
+ {
+  "id": "ssc-cgl",
+  "name": {
+   "ta": "SSC CGL (மத்திய அரசுப் பணிகள்)",
+   "en": "SSC CGL (central government posts)"
+  },
+  "body": {
+   "ta": "பணியாளர் தேர்வு ஆணையம்",
+   "en": "Staff Selection Commission"
+  },
+  "edu": "degree",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "வருமான வரி ஆய்வாளர், உதவிப் பிரிவு அலுவலர் உள்ளிட்ட பணிகள்",
+   "en": "Inspector, Assistant Section Officer and similar posts"
+  },
+  "ageNote": {
+   "ta": "வயது வரம்பு பதவிக்கு ஏற்ப 27–32 வரை மாறும்.",
+   "en": "Age limit varies from about 27 to 32 by post."
+  },
+  "syllabus": {
+   "ta": "கணிதத் திறன், பகுத்தறிவு, ஆங்கிலம், பொது அறிவு.",
+   "en": "Quantitative aptitude, reasoning, English, general awareness."
+  },
+  "url": "https://ssc.gov.in",
+  "keywords": [
+   "ssc",
+   "cgl",
+   "ssc cgl"
+  ]
+ },
+ {
+  "id": "rrb-ntpc",
+  "name": {
+   "ta": "ரயில்வே RRB NTPC",
+   "en": "Railway RRB NTPC"
+  },
+  "body": {
+   "ta": "ரயில்வே ஆட்சேர்ப்பு வாரியங்கள்",
+   "en": "Railway Recruitment Boards"
+  },
+  "edu": "hsc",
+  "minAge": 18,
+  "maxAge": null,
+  "posts": {
+   "ta": "நிலைய மேலாளர், கிளார்க், டிக்கெட் பரிசோதகர் உள்ளிட்ட பணிகள்",
+   "en": "Station master, clerk, ticket examiner and similar posts"
+  },
+  "ageNote": {
+   "ta": "12-ஆம் வகுப்பு / பட்டப் படிப்புப் பதவிகள் தனித்தனி; வயது வரம்பை அறிவிப்பில் பார்க்கவும்.",
+   "en": "12th-pass and graduate posts are separate; see the notification for age limits."
+  },
+  "syllabus": {
+   "ta": "கணினி அடிப்படைத் தேர்வு, திறன் / தட்டச்சுத் தேர்வு.",
+   "en": "Computer-based test, plus skill / typing test where applicable."
+  },
+  "url": "https://indianrailways.gov.in",
+  "keywords": [
+   "rrb",
+   "railway",
+   "ntpc",
+   "ரயில்வே"
+  ]
+ },
+ {
+  "id": "ibps-po",
+  "name": {
+   "ta": "IBPS வங்கி PO",
+   "en": "IBPS Bank PO"
+  },
+  "body": {
+   "ta": "வங்கிப் பணியாளர் தேர்வு நிறுவனம்",
+   "en": "Institute of Banking Personnel Selection"
+  },
+  "edu": "degree",
+  "minAge": 20,
+  "maxAge": 30,
+  "posts": {
+   "ta": "பொதுத்துறை வங்கிகளில் Probationary Officer",
+   "en": "Probationary Officer in public sector banks"
+  },
+  "ageNote": {
+   "ta": "பொதுப் பிரிவு 20–30; தளர்வுகள் உண்டு.",
+   "en": "General 20–30; relaxations apply."
+  },
+  "syllabus": {
+   "ta": "முதல்நிலை, முதன்மை, நேர்காணல்.",
+   "en": "Prelims, mains and interview."
+  },
+  "url": "https://www.ibps.in",
+  "keywords": [
+   "ibps",
+   "bank po",
+   "bank job",
+   "வங்கி வேலை"
+  ]
+ },
+ {
+  "id": "neet-ug",
+  "name": {
+   "ta": "நீட் (NEET-UG) – மருத்துவப் படிப்பு",
+   "en": "NEET-UG – medical courses"
+  },
+  "body": {
+   "ta": "தேசியத் தேர்வு முகமை (NTA)",
+   "en": "National Testing Agency (NTA)"
+  },
+  "edu": "hsc",
+  "minAge": 17,
+  "maxAge": null,
+  "posts": {
+   "ta": "MBBS, BDS, ஆயுஷ் படிப்புகளுக்கான நுழைவுத் தேர்வு",
+   "en": "Entrance test for MBBS, BDS and AYUSH courses"
+  },
+  "ageNote": {
+   "ta": "குறைந்தபட்சம் 17 வயது; மேல் வயது வரம்பு இல்லை (அறிவிப்பைப் பார்க்கவும்).",
+   "en": "Minimum age 17; no upper limit (see the notification)."
+  },
+  "syllabus": {
+   "ta": "இயற்பியல், வேதியியல், உயிரியல் (11, 12-ஆம் வகுப்பு).",
+   "en": "Physics, chemistry, biology (classes 11–12)."
+  },
+  "url": "https://neet.nta.nic.in",
+  "keywords": [
+   "neet",
+   "mbbs",
+   "medical entrance",
+   "நீட்"
+  ]
+ },
+ {
+  "id": "jee-main",
+  "name": {
+   "ta": "JEE Main – பொறியியல்",
+   "en": "JEE Main – engineering"
+  },
+  "body": {
+   "ta": "தேசியத் தேர்வு முகமை (NTA)",
+   "en": "National Testing Agency (NTA)"
+  },
+  "edu": "hsc",
+  "minAge": 16,
+  "maxAge": null,
+  "posts": {
+   "ta": "NIT, IIIT உள்ளிட்ட நிறுவனங்களில் B.E / B.Tech",
+   "en": "B.E / B.Tech at NITs, IIITs and others"
+  },
+  "ageNote": {
+   "ta": "வயது வரம்பு இல்லை; 12-ஆம் வகுப்பு தகுதி அவசியம்.",
+   "en": "No age limit; 12th-class qualification required."
+  },
+  "syllabus": {
+   "ta": "இயற்பியல், வேதியியல், கணிதம்.",
+   "en": "Physics, chemistry, mathematics."
+  },
+  "url": "https://jeemain.nta.nic.in",
+  "keywords": [
+   "jee",
+   "engineering entrance",
+   "btech",
+   "be entrance"
+  ]
+ }
+]

@@ -1,0 +1,617 @@
+{
+ "checked": 44,
+ "withProblems": 41,
+ "details": [
+  {
+   "page": "/home",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+   ],
+   "failedRequests": [
+    "404 http://localhost:3000/home",
+    "http://localhost:3000/ask?_rsc=OXEfaXsCQr9qpu4a",
+    "http://localhost:3000/ask?_rsc=242tnRB5_IlegzMX"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/home",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+   ],
+   "failedRequests": [
+    "404 http://localhost:3000/home",
+    "http://localhost:3000/ask?_rsc=OXEfaXsCQr9qpu4a",
+    "http://localhost:3000/ask?_rsc=242tnRB5_IlegzMX"
+   ]
+  },
+  {
+   "page": "/home",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+   ],
+   "failedRequests": [
+    "404 http://localhost:3000/home",
+    "http://localhost:3000/ask?_rsc=OXEfaXsCQr9qpu4a",
+    "http://localhost:3000/schemes?_rsc=OXEfaXsCQr9qpu4a",
+    "http://localhost:3000/ask?_rsc=242tnRB5_IlegzMX",
+    "http://localhost:3000/schemes?_rsc=242tnRB5_IlegzMX"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/home",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+   ],
+   "failedRequests": [
+    "404 http://localhost:3000/home",
+    "http://localhost:3000/schemes?_rsc=OXEfaXsCQr9qpu4a",
+    "http://localhost:3000/schemes?_rsc=242tnRB5_IlegzMX",
+    "http://localhost:3000/ask?_rsc=242tnRB5_IlegzMX"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/popular",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=-YVpIBa6II1IZdNB",
+    "http://localhost:3000/ask?_rsc=XfIv29nBp9m_5sIw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/popular",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=-YVpIBa6II1IZdNB",
+    "http://localhost:3000/ask?_rsc=XfIv29nBp9m_5sIw"
+   ]
+  },
+  {
+   "page": "/popular",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=XfIv29nBp9m_5sIw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/popular",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=-YVpIBa6II1IZdNB",
+    "http://localhost:3000/ask?_rsc=-YVpIBa6II1IZdNB",
+    "http://localhost:3000/schemes?_rsc=XfIv29nBp9m_5sIw",
+    "http://localhost:3000/ask?_rsc=XfIv29nBp9m_5sIw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=RkA06QlXaQkDuYN1",
+    "http://localhost:3000/ask?_rsc=HaUtnY7Py4WrDbPE"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=RkA06QlXaQkDuYN1",
+    "http://localhost:3000/ask?_rsc=HaUtnY7Py4WrDbPE"
+   ]
+  },
+  {
+   "page": "/schemes",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=RkA06QlXaQkDuYN1"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=RkA06QlXaQkDuYN1"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes/magalir-urimai",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 8,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/ask?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/schemes?_rsc=RBFeihwraXLNdkm8",
+    "http://localhost:3000/ask?_rsc=RBFeihwraXLNdkm8"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes/magalir-urimai",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/schemes?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/schemes?_rsc=RBFeihwraXLNdkm8",
+    "http://localhost:3000/ask?_rsc=RBFeihwraXLNdkm8"
+   ]
+  },
+  {
+   "page": "/schemes/magalir-urimai",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/ask?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/schemes?_rsc=RBFeihwraXLNdkm8"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/schemes/magalir-urimai",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/ask?_rsc=MsB_9B15bbzZvodg",
+    "http://localhost:3000/ask?_rsc=RBFeihwraXLNdkm8"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/service/community-certificate",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 8,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=tSsBqqt1_1fuWfLs",
+    "http://localhost:3000/ask?_rsc=0n5i5joFVy6M9Cuw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/service/community-certificate",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=0n5i5joFVy6M9Cuw"
+   ]
+  },
+  {
+   "page": "/service/community-certificate",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=0n5i5joFVy6M9Cuw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/service/community-certificate",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=tSsBqqt1_1fuWfLs",
+    "http://localhost:3000/ask?_rsc=tSsBqqt1_1fuWfLs",
+    "http://localhost:3000/ask?_rsc=0n5i5joFVy6M9Cuw"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/leaders",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 8,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1AY9hvD6mOpGxTWY",
+    "http://localhost:3000/ask?_rsc=NRrp9-dNeDJtv6kX"
+   ],
+   "axe": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "nodes": 1
+    }
+   ]
+  },
+  {
+   "page": "/leaders",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1AY9hvD6mOpGxTWY",
+    "http://localhost:3000/ask?_rsc=NRrp9-dNeDJtv6kX"
+   ]
+  },
+  {
+   "page": "/leaders",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 392,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "0%AE%B0%E0%AF%8D%20%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%3F&_rsc=1AY9hvD6mOpGxTWY",
+    "http://localhost:3000/ask?_rsc=NRrp9-dNeDJtv6kX"
+   ],
+   "axe": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "nodes": 1
+    }
+   ]
+  },
+  {
+   "page": "/leaders",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 184,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=1AY9hvD6mOpGxTWY",
+    "http://localhost:3000/ask?_rsc=1AY9hvD6mOpGxTWY",
+    "http://localhost:3000/schemes?_rsc=NRrp9-dNeDJtv6kX",
+    "http://localhost:3000/ask?_rsc=NRrp9-dNeDJtv6kX"
+   ],
+   "axe": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "nodes": 1
+    }
+   ]
+  },
+  {
+   "page": "/explore",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=-ZlQGheqjI7_E2Fu",
+    "http://localhost:3000/ask?_rsc=-ZlQGheqjI7_E2Fu"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/explore",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/ask?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/schemes?_rsc=-ZlQGheqjI7_E2Fu",
+    "http://localhost:3000/ask?_rsc=-ZlQGheqjI7_E2Fu"
+   ]
+  },
+  {
+   "page": "/explore",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/ask?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/schemes?_rsc=-ZlQGheqjI7_E2Fu",
+    "http://localhost:3000/ask?_rsc=-ZlQGheqjI7_E2Fu"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/explore",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/ask?_rsc=TLJ23gVnbrIc7BPU",
+    "http://localhost:3000/schemes?_rsc=-ZlQGheqjI7_E2Fu",
+    "http://localhost:3000/ask?_rsc=-ZlQGheqjI7_E2Fu"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/ask",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=nYzaen3a2Q6OoqBQ",
+    "http://localhost:3000/schemes?_rsc=98AxpYnxFZDoh0fn"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/profile",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=N_VArvFsXijtd_BH",
+    "http://localhost:3000/ask?_rsc=bNoP_cvF6rqn7WWJ"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/profile",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=N_VArvFsXijtd_BH",
+    "http://localhost:3000/ask?_rsc=bNoP_cvF6rqn7WWJ"
+   ]
+  },
+  {
+   "page": "/profile",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=N_VArvFsXijtd_BH",
+    "http://localhost:3000/ask?_rsc=N_VArvFsXijtd_BH",
+    "http://localhost:3000/schemes?_rsc=bNoP_cvF6rqn7WWJ",
+    "http://localhost:3000/ask?_rsc=bNoP_cvF6rqn7WWJ"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/profile",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=N_VArvFsXijtd_BH",
+    "http://localhost:3000/schemes?_rsc=bNoP_cvF6rqn7WWJ",
+    "http://localhost:3000/ask?_rsc=bNoP_cvF6rqn7WWJ"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/documents",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=yehh8CJVaWXHfpj0"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/documents",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=rve90R7o1tLnxMuV",
+    "http://localhost:3000/ask?_rsc=yehh8CJVaWXHfpj0"
+   ]
+  },
+  {
+   "page": "/documents",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=rve90R7o1tLnxMuV"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/documents",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/schemes?_rsc=rve90R7o1tLnxMuV",
+    "http://localhost:3000/ask?_rsc=rve90R7o1tLnxMuV"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/services",
+   "view": "mobile",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1RpmAqYJEMFF4n7A",
+    "http://localhost:3000/ask?_rsc=Ktn5x2ERov_cBgED"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/services",
+   "view": "mobile",
+   "reducedMotion": "reduce",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1RpmAqYJEMFF4n7A",
+    "http://localhost:3000/ask?_rsc=Ktn5x2ERov_cBgED"
+   ]
+  },
+  {
+   "page": "/services",
+   "view": "tablet",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1RpmAqYJEMFF4n7A",
+    "http://localhost:3000/ask?_rsc=Ktn5x2ERov_cBgED"
+   ],
+   "axe": []
+  },
+  {
+   "page": "/services",
+   "view": "desktop",
+   "reducedMotion": "no-preference",
+   "overflowX": 0,
+   "brokenImages": [],
+   "h1Count": 1,
+   "consoleErrors": [],
+   "failedRequests": [
+    "http://localhost:3000/ask?_rsc=1RpmAqYJEMFF4n7A",
+    "http://localhost:3000/schemes?_rsc=Ktn5x2ERov_cBgED",
+    "http://localhost:3000/ask?_rsc=Ktn5x2ERov_cBgED"
+   ],
+   "axe": []
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "asOf": "2026-10-21",
+    "note": "Compiled from Wikipedia 'Tamil Nadu Council of Ministers' (Vijay ministry sworn in 10 May 2026) and Britannica/Wikipedia lists of current Indian Chief Ministers. NOT yet cross-checked against tn.gov.in. Party for individual ministers is intentionally omitted until verified.",
+    "verified": false
+  },
+  "tamilNadu": {
+    "governor": { "id": "governor-tn", "name": "Rajendra Arlekar", "search": "Rajendra Arlekar" },
+    "cm": {
+      "id": "cm-tn",
+      "name": "C. Joseph Vijay",
+      "nameTa": "சி. ஜோசப் விஜய்",
+      "party": "TVK",
+      "partyTa": "தமிழக வெற்றிக் கழகம் (TVK)",
+      "constituency": "Perambur",
+      "constituencyTa": "பெரம்பூர்",
+      "since": "2026-05-10",
+      "search": "Vijay Tamilaga Vettri Kazhagam Chief Minister of Tamil Nadu"
+    },
+    "ministers": [
+      { "id": "m-anand", "name": "N. Anand", "constituency": "T. Nagar", "dept": "Rural Development & Panchayats; Irrigation", "deptTa": "ஊரக வளர்ச்சி & ஊராட்சிகள்; நீர்ப்பாசனம்", "search": "N. Anand Tamil Nadu minister" },
+      { "id": "m-aadhav", "name": "Aadhav Arjuna", "constituency": "Villivakkam", "dept": "Public Works (Buildings); Highways & Minor Ports; Sports Development", "deptTa": "பொதுப்பணி (கட்டடங்கள்); நெடுஞ்சாலை & சிறு துறைமுகங்கள்; விளையாட்டு மேம்பாடு", "search": "Aadhav Arjuna" },
+      { "id": "m-arunraj", "name": "K. G. Arunraj", "constituency": "Tiruchengode", "dept": "Health, Medical Education & Family Welfare", "deptTa": "சுகாதாரம், மருத்துவக் கல்வி & குடும்ப நலம்", "search": "K. G. Arunraj" },
+      { "id": "m-sengottaiyan", "name": "K. A. Sengottaiyan", "constituency": "Gobichettipalayam", "dept": "Revenue & Disaster Management; Legislative Assembly", "deptTa": "வருவாய் & பேரிடர் மேலாண்மை; சட்டப்பேரவை", "search": "K. A. Sengottaiyan" },
+      { "id": "m-venkataramanan", "name": "P. Venkataramanan", "constituency": "Mylapore", "dept": "Food & Civil Supplies; Consumer Protection", "deptTa": "உணவு & நுகர்பொருள் வழங்கல்; நுகர்வோர் பாதுகாப்பு", "search": "P. Venkataramanan" },
+      { "id": "m-nirmal", "name": "C. T. R. Nirmal Kumar", "constituency": "Thiruparankundram", "dept": "Electricity; Law, Courts & Prisons; Elections", "deptTa": "மின்சாரம்; சட்டம், நீதிமன்றங்கள் & சிறைகள்; தேர்தல்", "search": "C. T. R. Nirmal Kumar" },
+      { "id": "m-rajmohan", "name": "Rajmohan Arumugam", "constituency": "Egmore", "dept": "School Education; Tamil Official Language & Culture; Information & Publicity", "deptTa": "பள்ளிக் கல்வி; தமிழ் ஆட்சிமொழி & பண்பாடு; செய்தி & விளம்பரம்", "search": "Rajmohan Arumugam" },
+      { "id": "m-prabhu", "name": "T. K. Prabhu", "constituency": "Karaikudi", "dept": "Minerals & Mines", "deptTa": "கனிமங்கள் & சுரங்கம்", "search": "T. K. Prabhu Karaikudi" },
+      { "id": "m-keerthana", "name": "S. Keerthana", "constituency": "Sivakasi", "dept": "Industries & Investment Promotion", "deptTa": "தொழில்துறை & முதலீட்டு ஊக்குவிப்பு", "search": "S. Keerthana Sivakasi" },
+      { "id": "m-viswanathan", "name": "P. Viswanathan", "constituency": "Melur", "dept": "Higher Education; Electronics; Science & Technology", "deptTa": "உயர்கல்வி; மின்னணுவியல்; அறிவியல் & தொழில்நுட்பம்", "search": "P. Viswanathan Melur" },
+      { "id": "m-rajeshkumar", "name": "S. Rajeshkumar", "constituency": "Killiyoor", "dept": "Tourism", "deptTa": "சுற்றுலா", "search": "S. Rajeshkumar Killiyoor" },
+      { "id": "m-shahjahan", "name": "A. M. Shahjahan", "constituency": "Papanasam", "dept": "Minorities Welfare & Wakf Board", "deptTa": "சிறுபான்மையினர் நலன் & வக்ஃப் வாரியம்", "search": "A. M. Shahjahan Papanasam" },
+      { "id": "m-vanniarasu", "name": "Vanni Arasu", "constituency": "Tindivanam", "dept": "Adi Dravidar & Hill Tribes Welfare", "deptTa": "ஆதிதிராவிடர் & பழங்குடியினர் நலம்", "search": "Vanni Arasu" },
+      { "id": "m-parthiban", "name": "Vijay Tamilan Parthiban", "constituency": "Salem South", "dept": "Transport", "deptTa": "போக்குவரத்து", "search": "Vijay Tamilan Parthiban" },
+      { "id": "m-rajkumar", "name": "B. Rajkumar", "constituency": "Cuddalore", "dept": "Housing & Urban Development; CMDA", "deptTa": "வீட்டுவசதி & நகர்ப்புற வளர்ச்சி; சென்னை பெருநகர வளர்ச்சிக் குழுமம்", "search": "B. Rajkumar Cuddalore" },
+      { "id": "m-sampathkumar", "name": "V. Sampath Kumar", "constituency": "Coimbatore North", "dept": "Backward Classes, MBC & De-notified Communities Welfare", "deptTa": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் & சீர்மரபினர் நலம்", "search": "V. Sampath Kumar Coimbatore North" },
+      { "id": "m-vijaybalaji", "name": "M. Vijay Balaji", "constituency": "Erode East", "dept": "Handlooms, Textiles & Khadi", "deptTa": "கைத்தறி, துணிநூல் & கதர்", "search": "M. Vijay Balaji Erode East" },
+      { "id": "m-vignesh", "name": "K. Vignesh", "constituency": "Kinathukadavu", "dept": "Prohibition & Excise", "deptTa": "மதுவிலக்கு & ஆயத்தீர்வை", "search": "K. Vignesh Kinathukadavu" },
+      { "id": "m-thennarasu", "name": "Thennarasu K.", "constituency": "Sriperumbudur", "dept": "Non-Resident Tamils Welfare; Refugees & Evacuees", "deptTa": "வெளிநாடு வாழ் தமிழர் நலம்; அகதிகள் & வெளியேற்றப்பட்டோர்", "search": "Thennarasu K. Sriperumbudur" },
+      { "id": "m-farvas", "name": "J. Mohamed Farvas", "constituency": "Arantangi", "dept": "Labour Welfare, Employment & Training", "deptTa": "தொழிலாளர் நலம், வேலைவாய்ப்பு & பயிற்சி", "search": "J. Mohamed Farvas" },
+      { "id": "m-gandhiraj", "name": "V. Gandhiraj", "constituency": "Arakkonam", "dept": "Co-operation", "deptTa": "கூட்டுறவு", "search": "V. Gandhiraj Arakkonam" },
+      { "id": "m-jegadeshwari", "name": "Jegadeshwari K.", "constituency": "Rajapalayam", "dept": "Social Welfare & Women Welfare; Nutritious Meal Programme", "deptTa": "சமூக நலம் & மகளிர் நலம்; சத்துணவுத் திட்டம்", "search": "Jegadeshwari K. Rajapalayam" },
+      { "id": "m-vinoth", "name": "R. Vinoth", "constituency": "Kumbakonam", "dept": "Agriculture, Horticulture & Sugarcane Development", "deptTa": "வேளாண்மை, தோட்டக்கலை & கரும்பு மேம்பாடு", "search": "R. Vinoth Kumbakonam" },
+      { "id": "m-vijayalakshmi", "name": "C. Vijayalakshmi", "constituency": "Kumarapalayam", "dept": "Milk & Dairy Development", "deptTa": "பால்வளம்", "search": "C. Vijayalakshmi Kumarapalayam" },
+      { "id": "m-sarathkumar", "name": "D. Sarathkumar", "constituency": "Tambaram", "dept": "Human Resources Management; Ex-Servicemen Welfare", "deptTa": "மனிதவள மேலாண்மை; முன்னாள் படைவீரர் நலம்", "search": "D. Sarathkumar Tambaram" },
+      { "id": "m-ramesh", "name": "S. Ramesh", "constituency": "Srirangam", "dept": "Hindu Religious & Charitable Endowments", "deptTa": "இந்து சமய அறநிலையத் துறை", "search": "S. Ramesh Srirangam" },
+      { "id": "m-mathanraja", "name": "P. Mathanraja", "constituency": "Ottapidaram", "dept": "Rural Industries, Cottage & Small Industries", "deptTa": "ஊரகத் தொழில், குடிசை & சிறு தொழில்கள்", "search": "P. Mathanraja Ottapidaram" },
+      { "id": "m-mariewilson", "name": "N. Marie Wilson", "constituency": "R. K. Nagar", "dept": "Finance & Pensions; Planning & Development", "deptTa": "நிதி & ஓய்வூதியம்; திட்டமிடல் & வளர்ச்சி", "search": "N. Marie Wilson R. K. Nagar" },
+      { "id": "m-srinath", "name": "Srinath", "constituency": "Thoothukkudi", "dept": "Fisheries", "deptTa": "மீன்வளம்", "search": "Srinath Thoothukkudi minister" },
+      { "id": "m-kamali", "name": "S. Kamali", "constituency": "Avanashi", "dept": "Animal Husbandry", "deptTa": "கால்நடை பராமரிப்பு", "search": "S. Kamali Avanashi" },
+      { "id": "m-rkumar", "name": "R. Kumar", "constituency": "Velachery", "dept": "Artificial Intelligence, IT & Digital Services", "deptTa": "செயற்கை நுண்ணறிவு, தகவல் தொழில்நுட்பம் & டிஜிட்டல் சேவைகள்", "search": "R. Kumar Velachery" },
+      { "id": "m-ranjithkumar", "name": "R. V. Ranjithkumar", "constituency": "Kancheepuram", "dept": "Forests", "deptTa": "வனம்", "search": "R. V. Ranjithkumar Kancheepuram" },
+      { "id": "m-logesh", "name": "Logesh Tamilselvan", "constituency": "Rasipuram", "dept": "Commercial Taxes; Registration & Stamps", "deptTa": "வணிக வரி; பதிவு & முத்திரைத் தாள்", "search": "Logesh Tamilselvan Rasipuram" },
+      { "id": "m-rajeev", "name": "Rajeev", "constituency": "Tiruvadanai", "dept": "Environment & Climate Change", "deptTa": "சுற்றுச்சூழல் & காலநிலை மாற்றம்", "search": "Rajeev Tiruvadanai" }
+    ],
+    "cmPortfolioNote": {
+      "en": "The Chief Minister also holds Home, Police, Public/General Administration, Youth Welfare, and Municipal Administration & Water Supply.",
+      "ta": "முதலமைச்சர் உள்துறை, காவல், பொது நிர்வாகம், இளைஞர் நலம், நகராட்சி நிர்வாகம் & குடிநீர் வழங்கல் ஆகிய துறைகளையும் கவனிக்கிறார்."
+    }
+  },
+  "states": [
+    { "code": "AP", "name": "Andhra Pradesh", "nameTa": "ஆந்திரப் பிரதேசம்", "cm": "N. Chandrababu Naidu", "party": "TDP" },
+    { "code": "AR", "name": "Arunachal Pradesh", "nameTa": "அருணாசலப் பிரதேசம்", "cm": "Pema Khandu", "party": "BJP" },
+    { "code": "AS", "name": "Assam", "nameTa": "அசாம்", "cm": "Himanta Biswa Sarma", "party": "BJP" },
+    { "code": "BR", "name": "Bihar", "nameTa": "பிஹார்", "cm": "Samrat Choudhary", "party": "BJP", "since": "2026-04-15" },
+    { "code": "CG", "name": "Chhattisgarh", "nameTa": "சத்தீஸ்கர்", "cm": "Vishnu Deo Sai", "party": "BJP" },
+    { "code": "DL", "name": "Delhi (UT)", "nameTa": "தில்லி (ஒன்றியப் பகுதி)", "cm": "Rekha Gupta", "party": "BJP" },
+    { "code": "GA", "name": "Goa", "nameTa": "கோவா", "cm": "Pramod Sawant", "party": "BJP" },
+    { "code": "GJ", "name": "Gujarat", "nameTa": "குஜராத்", "cm": "Bhupendra Patel", "party": "BJP" },
+    { "code": "HR", "name": "Haryana", "nameTa": "ஹரியானா", "cm": "Nayab Singh Saini", "party": "BJP" },
+    { "code": "HP", "name": "Himachal Pradesh", "nameTa": "இமாசலப் பிரதேசம்", "cm": "Sukhvinder Singh Sukhu", "party": "INC" },
+    { "code": "JK", "name": "Jammu & Kashmir (UT)", "nameTa": "ஜம்மு & காஷ்மீர் (ஒன்றியப் பகுதி)", "cm": "Omar Abdullah", "party": "JKNC" },
+    { "code": "JH", "name": "Jharkhand", "nameTa": "ஜார்க்கண்ட்", "cm": "Hemant Soren", "party": "JMM" },
+    { "code": "KA", "name": "Karnataka", "nameTa": "கர்நாடகா", "cm": "D. K. Shivakumar", "party": "INC", "since": "2026-06-03" },
+    { "code": "KL", "name": "Kerala", "nameTa": "கேரளா", "cm": "V. D. Satheesan", "party": "INC", "since": "2026-05-18" },
+    { "code": "MP", "name": "Madhya Pradesh", "nameTa": "மத்தியப் பிரதேசம்", "cm": "Mohan Yadav", "party": "BJP" },
+    { "code": "MH", "name": "Maharashtra", "nameTa": "மகாராஷ்டிரா", "cm": "Devendra Fadnavis", "party": "BJP" },
+    { "code": "MN", "name": "Manipur", "nameTa": "மணிப்பூர்", "cm": "Yumnam Khemchand Singh", "party": "BJP" },
+    { "code": "ML", "name": "Meghalaya", "nameTa": "மேகாலயா", "cm": "Conrad Sangma", "party": "NPP" },
+    { "code": "MZ", "name": "Mizoram", "nameTa": "மிசோரம்", "cm": "Lalduhoma", "party": "ZPM" },
+    { "code": "NL", "name": "Nagaland", "nameTa": "நாகாலாந்து", "cm": "Neiphiu Rio", "party": "NDPP" },
+    { "code": "OD", "name": "Odisha", "nameTa": "ஒடிசா", "cm": "Mohan Charan Majhi", "party": "BJP" },
+    { "code": "PY", "name": "Puducherry (UT)", "nameTa": "புதுச்சேரி (ஒன்றியப் பகுதி)", "cm": "N. Rangaswamy", "party": "AINRC" },
+    { "code": "PB", "name": "Punjab", "nameTa": "பஞ்சாப்", "cm": "Bhagwant Singh Mann", "party": "AAP" },
+    { "code": "RJ", "name": "Rajasthan", "nameTa": "ராஜஸ்தான்", "cm": "Bhajan Lal Sharma", "party": "BJP" },
+    { "code": "SK", "name": "Sikkim", "nameTa": "சிக்கிம்", "cm": "Prem Singh Tamang", "party": "SKM" },
+    { "code": "TN", "name": "Tamil Nadu", "nameTa": "தமிழ்நாடு", "cm": "C. Joseph Vijay", "party": "TVK", "since": "2026-05-10" },
+    { "code": "TS", "name": "Telangana", "nameTa": "தெலங்கானா", "cm": "A. Revanth Reddy", "party": "INC" },
+    { "code": "TR", "name": "Tripura", "nameTa": "திரிபுரா", "cm": "Manik Saha", "party": "BJP" },
+    { "code": "UP", "name": "Uttar Pradesh", "nameTa": "உத்தரப் பிரதேசம்", "cm": "Yogi Adityanath", "party": "BJP" },
+    { "code": "UK", "name": "Uttarakhand", "nameTa": "உத்தராகண்ட்", "cm": "Pushkar Singh Dhami", "party": "BJP" },
+    { "code": "WB", "name": "West Bengal", "nameTa": "மேற்கு வங்கம்", "cm": "Suvendu Adhikari", "party": "BJP", "since": "2026-05" }
+  ],
+  "pastTnChiefMinisters": [
+    {
+      "name": "K. Kamaraj", "nameTa": "கே. காமராஜ்", "years": "1954–1963",
+      "workEn": ["Opened thousands of schools in villages and promoted the midday meal in schools.", "Pushed irrigation dams and industrial growth across the state."],
+      "workTa": ["கிராமங்களில் ஆயிரக்கணக்கான பள்ளிகளைத் திறந்து, பள்ளிகளில் மதிய உணவுத் திட்டத்தை முன்னெடுத்தார்.", "நீர்ப்பாசன அணைகள், தொழில் வளர்ச்சியை மாநிலம் முழுவதும் ஊக்குவித்தார்."],
+      "search": "K. Kamaraj"
+    },
+    {
+      "name": "C. N. Annadurai", "nameTa": "சி. என். அண்ணாதுரை", "years": "1967–1969",
+      "workEn": ["Madras State was officially renamed Tamil Nadu (1969).", "Established the two-language (Tamil and English) policy in schools."],
+      "workTa": ["மதராஸ் மாநிலம் அதிகாரப்பூர்வமாக 'தமிழ்நாடு' என்று பெயர் மாற்றப்பட்டது (1969).", "பள்ளிகளில் தமிழ் – ஆங்கிலம் இருமொழிக் கொள்கையை உறுதி செய்தார்."],
+      "search": "C. N. Annadurai"
+    },
+    {
+      "name": "M. G. Ramachandran", "nameTa": "எம். ஜி. ராமச்சந்திரன்", "years": "1977–1987",
+      "workEn": ["Expanded the noon meal scheme into the Nutritious Meal Programme for school children (1982)."],
+      "workTa": ["பள்ளிக் குழந்தைகளுக்கான சத்துணவுத் திட்டத்தை விரிவுபடுத்தினார் (1982)."],
+      "search": "M. G. Ramachandran"
+    },
+    {
+      "name": "M. Karunanidhi", "nameTa": "மு. கருணாநிதி", "years": "1969–1976, 1989–1991, 1996–2001, 2006–2011 (five terms)",
+      "workEn": ["Started the Uzhavar Sandhai farmers' markets (1999).", "Introduced the Samathuvapuram model villages for communal harmony."],
+      "workTa": ["உழவர் சந்தைகளைத் தொடங்கினார் (1999).", "சமத்துவபுரம் எனும் சமூக நல்லிணக்கக் குடியிருப்புகளை உருவாக்கினார்."],
+      "search": "M. Karunanidhi"
+    },
+    {
+      "name": "J. Jayalalithaa", "nameTa": "ஜெ. ஜெயலலிதா", "years": "1991–1996, 2001, 2002–2006, 2011–2014, 2015–2016",
+      "workEn": ["Launched the Cradle Baby Scheme (1992) and all-women police stations.", "Opened subsidised Amma Unavagam canteens (2013)."],
+      "workTa": ["தொட்டில் குழந்தைத் திட்டம் (1992), அனைத்து மகளிர் காவல் நிலையங்களைத் தொடங்கினார்.", "மானிய விலை அம்மா உணவகங்களைத் திறந்தார் (2013)."],
+      "search": "J. Jayalalithaa"
+    },
+    {
+      "name": "M. K. Stalin", "nameTa": "மு. க. ஸ்டாலின்", "years": "2021–2026",
+      "workEn": ["Free bus travel for women in town buses (Vidiyal Payanam).", "Chief Minister's Breakfast Scheme in government primary schools (2022).", "Monthly assistance of ₹1,000 for eligible women heads of families (Magalir Urimai Thogai, 2023)."],
+      "workTa": ["நகரப் பேருந்துகளில் மகளிருக்கு கட்டணமில்லாப் பயணம் (விடியல் பயணம்).", "அரசு தொடக்கப் பள்ளிகளில் முதலமைச்சரின் காலை உணவுத் திட்டம் (2022).", "தகுதியுள்ள குடும்பத் தலைவிகளுக்கு மாதம் ₹1,000 – மகளிர் உரிமைத் தொகை (2023)."],
+      "search": "M. K. Stalin"
+    }
+  ]
+}

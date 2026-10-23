@@ -1,0 +1,154 @@
+[
+ {
+  "num": "112",
+  "name": {
+   "ta": "அனைத்து அவசர உதவி",
+   "en": "All-in-one emergency"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "100",
+  "name": {
+   "ta": "காவல்துறை",
+   "en": "Police"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "101",
+  "name": {
+   "ta": "தீயணைப்பு",
+   "en": "Fire"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "108",
+  "name": {
+   "ta": "ஆம்புலன்ஸ் (108)",
+   "en": "Ambulance (108)"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "102",
+  "name": {
+   "ta": "தாய்–சேய் நல ஆம்புலன்ஸ்",
+   "en": "Mother & child ambulance"
+  },
+  "kind": "health"
+ },
+ {
+  "num": "104",
+  "name": {
+   "ta": "சுகாதார உதவி எண் (தமிழ்நாடு)",
+   "en": "Health helpline (Tamil Nadu)"
+  },
+  "kind": "health"
+ },
+ {
+  "num": "14416",
+  "name": {
+   "ta": "மனநல உதவி – Tele-MANAS",
+   "en": "Mental health – Tele-MANAS"
+  },
+  "kind": "health"
+ },
+ {
+  "num": "181",
+  "name": {
+   "ta": "பெண்கள் உதவி எண்",
+   "en": "Women helpline"
+  },
+  "kind": "women"
+ },
+ {
+  "num": "1091",
+  "name": {
+   "ta": "பெண்கள் காவல் உதவி",
+   "en": "Women police helpline"
+  },
+  "kind": "women"
+ },
+ {
+  "num": "1098",
+  "name": {
+   "ta": "குழந்தைகள் உதவி (Childline)",
+   "en": "Childline"
+  },
+  "kind": "women"
+ },
+ {
+  "num": "14567",
+  "name": {
+   "ta": "முதியோர் உதவி எண் (Elderline)",
+   "en": "Senior citizens helpline (Elderline)"
+  },
+  "kind": "seniors"
+ },
+ {
+  "num": "1930",
+  "name": {
+   "ta": "சைபர் குற்றப் புகார்",
+   "en": "Cyber-crime reporting"
+  },
+  "kind": "other"
+ },
+ {
+  "num": "1950",
+  "name": {
+   "ta": "வாக்காளர் உதவி எண்",
+   "en": "Voter helpline"
+  },
+  "kind": "other"
+ },
+ {
+  "num": "1033",
+  "name": {
+   "ta": "தேசிய நெடுஞ்சாலை உதவி",
+   "en": "National highway helpline"
+  },
+  "kind": "other"
+ },
+ {
+  "num": "1915",
+  "name": {
+   "ta": "நுகர்வோர் உதவி எண்",
+   "en": "Consumer helpline"
+  },
+  "kind": "other"
+ },
+ {
+  "num": "15100",
+  "name": {
+   "ta": "இலவச சட்ட உதவி (NALSA)",
+   "en": "Free legal aid (NALSA)"
+  },
+  "kind": "other"
+ },
+ {
+  "num": "1070",
+  "name": {
+   "ta": "மாநிலப் பேரிடர் கட்டுப்பாட்டு அறை",
+   "en": "State disaster control room"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "1077",
+  "name": {
+   "ta": "மாவட்டப் பேரிடர் கட்டுப்பாட்டு அறை",
+   "en": "District disaster control room"
+  },
+  "kind": "emergency"
+ },
+ {
+  "num": "18004256000",
+  "name": {
+   "ta": "இ-சேவை உதவி மையம் (கட்டணமில்லா)",
+   "en": "e-Sevai help desk (toll-free)"
+  },
+  "kind": "other"
+ }
+]

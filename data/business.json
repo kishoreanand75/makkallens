@@ -1,0 +1,89 @@
+[
+ {
+  "id": "udyam",
+  "name": {
+   "ta": "உத்யம் (MSME) பதிவு",
+   "en": "Udyam (MSME) registration"
+  },
+  "what": {
+   "ta": "சிறு, குறு தொழிலுக்கு அரசு அங்கீகாரம்; கடன், மானியங்களுக்கு உதவும். இலவசம்.",
+   "en": "Government recognition for micro and small enterprises; helps with loans and subsidies. Free."
+  },
+  "url": "https://udyamregistration.gov.in",
+  "need": [
+   "aadhaar",
+   "pan",
+   "bank"
+  ]
+ },
+ {
+  "id": "gst",
+  "name": {
+   "ta": "GST பதிவு",
+   "en": "GST registration"
+  },
+  "what": {
+   "ta": "விற்றுமுதல் வரம்பை மீறினால் அல்லது மாநிலங்களுக்கிடையே விற்றால் கட்டாயம்.",
+   "en": "Mandatory above the turnover threshold or when selling across states."
+  },
+  "url": "https://www.gst.gov.in",
+  "need": [
+   "aadhaar",
+   "pan",
+   "bank",
+   "address",
+   "photo"
+  ]
+ },
+ {
+  "id": "fssai",
+  "name": {
+   "ta": "FSSAI உணவு உரிமம்",
+   "en": "FSSAI food licence"
+  },
+  "what": {
+   "ta": "உணவு தொடர்பான எந்தத் தொழிலுக்கும் பதிவு அல்லது உரிமம் தேவை.",
+   "en": "Any food business needs a registration or licence."
+  },
+  "url": "https://foscos.fssai.gov.in",
+  "need": [
+   "aadhaar",
+   "photo",
+   "address"
+  ]
+ },
+ {
+  "id": "shops",
+  "name": {
+   "ta": "கடைகள் & நிறுவனங்கள் பதிவு (தமிழ்நாடு)",
+   "en": "Shops & Establishments registration (Tamil Nadu)"
+  },
+  "what": {
+   "ta": "கடை, அலுவலகம், உணவகம் நடத்த தொழிலாளர் துறையில் பதிவு.",
+   "en": "Registration with the Labour Dept. to run a shop, office or eatery."
+  },
+  "url": "https://labour.tn.gov.in",
+  "need": [
+   "aadhaar",
+   "address",
+   "photo"
+  ]
+ },
+ {
+  "id": "trade",
+  "name": {
+   "ta": "வர்த்தக உரிமம் (உள்ளாட்சி)",
+   "en": "Trade licence (local body)"
+  },
+  "what": {
+   "ta": "உங்கள் மாநகராட்சி / நகராட்சி / ஊராட்சியில் தொழில் உரிமம்.",
+   "en": "Business licence from your corporation / municipality / panchayat."
+  },
+  "url": "https://www.tn.gov.in",
+  "need": [
+   "aadhaar",
+   "address",
+   "land"
+  ]
+ }
+]

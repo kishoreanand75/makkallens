@@ -1,0 +1,1810 @@
+[
+ {
+  "id": "pm-kisan",
+  "level": "central",
+  "category": "agriculture",
+  "title": {
+   "ta": "பிரதமர் கிசான் சம்மான் நிதி (PM-KISAN)",
+   "en": "PM-KISAN Samman Nidhi"
+  },
+  "dept": {
+   "ta": "வேளாண்மை & விவசாயிகள் நலத் துறை (மத்திய அரசு)",
+   "en": "Dept. of Agriculture & Farmers Welfare (Govt of India)"
+  },
+  "benefit": {
+   "ta": "தகுதியுள்ள நில உரிமை விவசாயக் குடும்பங்களுக்கு ஆண்டுக்கு ₹6,000, மூன்று தவணைகளில் நேரடியாக வங்கிக் கணக்கில்.",
+   "en": "₹6,000 a year in three instalments, paid directly to the bank account of eligible landholding farmer families."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "farmer"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "நிலம் உள்ள விவசாயக் குடும்பம். அரசு ஊழியர், வருமான வரி செலுத்துவோர் உள்ளிட்ட சில பிரிவினர் விலக்கு.",
+   "en": "A farmer family that owns cultivable land. Some groups such as government employees and income-tax payers are excluded."
+  },
+  "docs": [
+   "aadhaar",
+   "bank",
+   "land",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "pmkisan.gov.in-இல் 'Farmers Corner' → புதிய பதிவு; அல்லது இ-சேவை / CSC மையம்.",
+   "en": "Register under 'Farmers Corner' on pmkisan.gov.in, or at an e-Sevai / CSC centre."
+  },
+  "url": "https://pmkisan.gov.in",
+  "needs": [
+   "farming",
+   "money"
+  ],
+  "keywords": [
+   "kisan",
+   "farmer",
+   "விவசாயி",
+   "கிசான்",
+   "6000"
+  ],
+  "popularity": 10,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pmfby",
+  "level": "central",
+  "category": "agriculture",
+  "title": {
+   "ta": "பிரதமர் பசல் பீமா யோஜனா (பயிர்க் காப்பீடு)",
+   "en": "PM Fasal Bima Yojana (crop insurance)"
+  },
+  "dept": {
+   "ta": "வேளாண்மை & விவசாயிகள் நலத் துறை",
+   "en": "Dept. of Agriculture & Farmers Welfare"
+  },
+  "benefit": {
+   "ta": "இயற்கைச் சீற்றம், பூச்சி, நோயால் பயிர் இழப்பு ஏற்பட்டால் குறைந்த பிரீமியத்தில் காப்பீடு.",
+   "en": "Insurance cover against crop loss from calamities, pests and disease at a low farmer premium."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "farmer"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "land"
+  ],
+  "apply": {
+   "ta": "பயிர்க் கடன் வழங்கும் வங்கி / கூட்டுறவுச் சங்கம், CSC அல்லது pmfby.gov.in வழியாக, அறிவிக்கப்பட்ட கடைசித் தேதிக்குள்.",
+   "en": "Through your crop-loan bank / co-operative society, a CSC or pmfby.gov.in before the notified cut-off date."
+  },
+  "url": "https://pmfby.gov.in",
+  "needs": [
+   "farming",
+   "insurance"
+  ],
+  "keywords": [
+   "crop insurance",
+   "பயிர் காப்பீடு",
+   "pmfby"
+  ],
+  "popularity": 8,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "kcc",
+  "level": "central",
+  "category": "agriculture",
+  "title": {
+   "ta": "கிசான் கிரெடிட் கார்டு (KCC)",
+   "en": "Kisan Credit Card (KCC)"
+  },
+  "dept": {
+   "ta": "வங்கிகள் / கூட்டுறவு வங்கிகள் (NABARD வழிகாட்டுதல்)",
+   "en": "Banks / co-operative banks (NABARD guidelines)"
+  },
+  "benefit": {
+   "ta": "விவசாயத்துக்குத் தேவையான குறுகிய காலக் கடன் எளிய நடைமுறையில்.",
+   "en": "Short-term farm credit through a simple process."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "farmer"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "land",
+   "photo"
+  ],
+  "apply": {
+   "ta": "உங்கள் வங்கிக் கிளை அல்லது கூட்டுறவு வங்கியில் விண்ணப்பம்.",
+   "en": "Apply at your bank branch or co-operative bank."
+  },
+  "url": "https://www.nabard.org",
+  "needs": [
+   "farming",
+   "loan"
+  ],
+  "keywords": [
+   "kcc",
+   "kisan credit",
+   "விவசாயக் கடன்",
+   "farm loan",
+   "farmer loan",
+   "crop loan",
+   "விவசாயி கடன்",
+   "விவசாயக் கடன்",
+   "loan"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "soil-health-card",
+  "level": "central",
+  "category": "agriculture",
+  "title": {
+   "ta": "மண் வள அட்டை",
+   "en": "Soil Health Card"
+  },
+  "dept": {
+   "ta": "வேளாண்மை & விவசாயிகள் நலத் துறை",
+   "en": "Dept. of Agriculture & Farmers Welfare"
+  },
+  "benefit": {
+   "ta": "மண் பரிசோதனை அடிப்படையில் எந்த உரம், எவ்வளவு என்ற பரிந்துரை.",
+   "en": "Soil-test based advice on which fertiliser and how much to use."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "farmer"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "land"
+  ],
+  "apply": {
+   "ta": "உங்கள் வட்டார வேளாண்மை அலுவலகம் அல்லது soilhealth.dac.gov.in.",
+   "en": "Your block agriculture office or soilhealth.dac.gov.in."
+  },
+  "url": "https://soilhealth.dac.gov.in",
+  "needs": [
+   "farming"
+  ],
+  "keywords": [
+   "soil",
+   "மண்"
+  ],
+  "popularity": 4,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pm-jay",
+  "level": "central",
+  "category": "health",
+  "title": {
+   "ta": "ஆயுஷ்மான் பாரத் – PM-JAY",
+   "en": "Ayushman Bharat – PM-JAY"
+  },
+  "dept": {
+   "ta": "தேசிய சுகாதார ஆணையம்",
+   "en": "National Health Authority"
+  },
+  "benefit": {
+   "ta": "தகுதியுள்ள குடும்பத்துக்கு ஆண்டுக்கு ₹5 லட்சம் வரை இலவச மருத்துவமனைச் சிகிச்சை (பட்டியலிடப்பட்ட மருத்துவமனைகளில்).",
+   "en": "Free hospital treatment up to ₹5 lakh per family per year at empanelled hospitals."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 300000,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "குடும்பம் அரசுப் பட்டியலில் (SECC) இருக்க வேண்டும். 70 வயதுக்கு மேற்பட்டோருக்குத் தனி விரிவாக்கம் உண்டு – தளத்தில் சரிபார்க்கவும்.",
+   "en": "The family must be on the government list (SECC). A separate expansion exists for people aged 70+ – confirm on the site."
+  },
+  "docs": [
+   "aadhaar",
+   "ration",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "pmjay.gov.in-இல் 'Am I Eligible' மூலம் சரிபார்த்து, அருகிலுள்ள ஆயுஷ்மான் மித்ரா / CSC-இல் அட்டை பெறலாம்.",
+   "en": "Check 'Am I Eligible' on pmjay.gov.in, then get the card at an Ayushman Mitra desk or CSC."
+  },
+  "url": "https://pmjay.gov.in",
+  "needs": [
+   "health",
+   "insurance"
+  ],
+  "keywords": [
+   "ayushman",
+   "pmjay",
+   "ஆயுஷ்மான்",
+   "health insurance",
+   "மருத்துவக் காப்பீடு"
+  ],
+  "popularity": 10,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "cmchis",
+  "level": "state",
+  "category": "health",
+  "title": {
+   "ta": "முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம் (CMCHIS)",
+   "en": "Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS)"
+  },
+  "dept": {
+   "ta": "தமிழ்நாடு சுகாதாரத் துறை / காப்பீட்டு நிறுவனம்",
+   "en": "Tamil Nadu Health Dept. / insurance company"
+  },
+  "benefit": {
+   "ta": "தகுதியுள்ள குடும்பங்களுக்கு ஆண்டுக்கு ₹5 லட்சம் வரை மருத்துவச் சிகிச்சைக் காப்பீடு.",
+   "en": "Health-insurance cover up to ₹5 lakh a year for eligible families."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 120000,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "குடும்ப ஆண்டு வருமான வரம்பு ₹1.2 லட்சம் என அறியப்படுகிறது; சமீபத்திய வரம்பைச் சரிபார்க்கவும்.",
+   "en": "The family income limit is known as ₹1.2 lakh a year; confirm the current limit."
+  },
+  "docs": [
+   "aadhaar",
+   "ration",
+   "income",
+   "photo"
+  ],
+  "apply": {
+   "ta": "வருமானச் சான்றுடன் அருகிலுள்ள காப்பீட்டு உதவி மையம் / அரசு மருத்துவமனை.",
+   "en": "With an income certificate, at the nearest insurance help desk or government hospital."
+  },
+  "url": "https://www.cmchistn.com",
+  "needs": [
+   "health",
+   "insurance"
+  ],
+  "keywords": [
+   "cmchis",
+   "கலைஞர் காப்பீடு",
+   "முதலமைச்சர் காப்பீடு",
+   "tn health insurance"
+  ],
+  "popularity": 9,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "pmmvy",
+  "level": "central",
+  "category": "women",
+  "title": {
+   "ta": "பிரதமர் மாத்ரு வந்தனா யோஜனா (PMMVY)",
+   "en": "PM Matru Vandana Yojana (PMMVY)"
+  },
+  "dept": {
+   "ta": "பெண்கள் & குழந்தைகள் மேம்பாட்டு அமைச்சகம்",
+   "en": "Ministry of Women & Child Development"
+  },
+  "benefit": {
+   "ta": "கர்ப்பிணி, பாலூட்டும் தாய்மார்களுக்குத் தவணைகளில் பண உதவி (முதல் உயிருடன் பிறந்த குழந்தைக்கு).",
+   "en": "Cash assistance in instalments for pregnant and lactating mothers (for the first living child)."
+  },
+  "elig": {
+   "minAge": 19,
+   "maxAge": null,
+   "gender": "female",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "அரசு ஊழியராகவோ, வேறு மகப்பேறு நலன் பெறுபவராகவோ இருக்கக் கூடாது.",
+   "en": "Not a government employee or already receiving another maternity benefit."
+  },
+  "docs": [
+   "aadhaar",
+   "bank",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "அங்கன்வாடி மையம் அல்லது அருகிலுள்ள சுகாதார நிலையத்தில் பதிவு.",
+   "en": "Register at your Anganwadi centre or nearest health facility."
+  },
+  "url": "https://pmmvy.wcd.gov.in",
+  "needs": [
+   "women",
+   "health",
+   "money"
+  ],
+  "keywords": [
+   "maternity",
+   "pregnant",
+   "கர்ப்பிணி",
+   "மகப்பேறு"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "tn-maternity",
+  "level": "state",
+  "category": "women",
+  "title": {
+   "ta": "டாக்டர் முத்துலட்சுமி ரெட்டி மகப்பேறு நிதியுதவித் திட்டம்",
+   "en": "Dr. Muthulakshmi Reddy Maternity Benefit Scheme"
+  },
+  "dept": {
+   "ta": "தமிழ்நாடு சுகாதாரத் துறை",
+   "en": "Tamil Nadu Health Dept."
+  },
+  "benefit": {
+   "ta": "ஏழைக் கர்ப்பிணிகளுக்குப் பண உதவியும் ஊட்டச்சத்துப் பெட்டகமும்.",
+   "en": "Cash assistance and a nutrition kit for poor pregnant women."
+  },
+  "elig": {
+   "minAge": 19,
+   "maxAge": null,
+   "gender": "female",
+   "occupations": null,
+   "maxIncome": 150000,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "income",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "கிராம / நகர சுகாதாரச் செவிலியரிடம் கர்ப்பப் பதிவு (PICME) செய்யும்போது தகவல் கிடைக்கும்.",
+   "en": "Details are given when the pregnancy is registered (PICME) with the village / urban health nurse."
+  },
+  "url": "https://tnhealth.tn.gov.in",
+  "needs": [
+   "women",
+   "health",
+   "money"
+  ],
+  "keywords": [
+   "maternity",
+   "முத்துலட்சுமி",
+   "மகப்பேறு",
+   "pregnancy"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "pm-ujjwala",
+  "level": "central",
+  "category": "women",
+  "title": {
+   "ta": "பிரதமர் உஜ்வலா யோஜனா (இலவச எரிவாயு இணைப்பு)",
+   "en": "PM Ujjwala Yojana (LPG connection)"
+  },
+  "dept": {
+   "ta": "பெட்ரோலியம் & இயற்கை எரிவாயு அமைச்சகம்",
+   "en": "Ministry of Petroleum & Natural Gas"
+  },
+  "benefit": {
+   "ta": "வறுமைக் கோட்டுக்குக் கீழுள்ள குடும்பப் பெண்களுக்கு எரிவாயு இணைப்பு.",
+   "en": "An LPG connection in the name of a woman from a poor household."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": null,
+   "gender": "female",
+   "occupations": null,
+   "maxIncome": 150000,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "ration",
+   "bank",
+   "photo"
+  ],
+  "apply": {
+   "ta": "அருகிலுள்ள எரிவாயு விநியோகஸ்தர் அல்லது pmuy.gov.in.",
+   "en": "Your nearest LPG distributor or pmuy.gov.in."
+  },
+  "url": "https://www.pmuy.gov.in",
+  "needs": [
+   "women",
+   "housing"
+  ],
+  "keywords": [
+   "ujjwala",
+   "gas",
+   "எரிவாயு",
+   "சிலிண்டர்"
+  ],
+  "popularity": 5,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "sukanya",
+  "level": "central",
+  "category": "women",
+  "title": {
+   "ta": "சுகன்யா சம்ரித்தி கணக்கு",
+   "en": "Sukanya Samriddhi Account"
+  },
+  "dept": {
+   "ta": "அஞ்சலகம் / அங்கீகரிக்கப்பட்ட வங்கிகள்",
+   "en": "Post offices / authorised banks"
+  },
+  "benefit": {
+   "ta": "பெண் குழந்தையின் கல்வி, திருமணச் செலவுக்கு அரசு ஆதரவு சிறுசேமிப்பு – நல்ல வட்டி விகிதம்.",
+   "en": "A government-backed small-savings account for a girl child's education and marriage, with an attractive interest rate."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "பெண் குழந்தையின் வயது 10-க்குக் குறைவு; பெற்றோர் / பாதுகாவலர் கணக்கைத் தொடங்குவார்.",
+   "en": "The girl must be under 10; a parent or guardian opens it."
+  },
+  "docs": [
+   "birth",
+   "aadhaar",
+   "photo"
+  ],
+  "apply": {
+   "ta": "பெண் குழந்தைக்கு 10 வயதுக்குள் அஞ்சலகம் அல்லது வங்கியில் கணக்குத் தொடங்கலாம்.",
+   "en": "Open at a post office or bank before the girl turns 10."
+  },
+  "url": "https://www.nsiindia.gov.in",
+  "needs": [
+   "women",
+   "savings",
+   "education"
+  ],
+  "keywords": [
+   "sukanya",
+   "சுகன்யா",
+   "girl child",
+   "பெண் குழந்தை"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "apy",
+  "level": "central",
+  "category": "seniors",
+  "title": {
+   "ta": "அடல் ஓய்வூதியத் திட்டம் (APY)",
+   "en": "Atal Pension Yojana (APY)"
+  },
+  "dept": {
+   "ta": "PFRDA / வங்கிகள்",
+   "en": "PFRDA / banks"
+  },
+  "benefit": {
+   "ta": "60 வயதுக்குப் பிறகு மாதம் ₹1,000 முதல் ₹5,000 வரை உறுதியான ஓய்வூதியம்.",
+   "en": "A guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": 40,
+   "gender": "any",
+   "occupations": [
+    "worker",
+    "selfemployed",
+    "employee",
+    "farmer",
+    "homemaker",
+    "unemployed",
+    "student",
+    "other"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "வயது 18–40; வங்கிக் கணக்கு தேவை. வருமான வரி செலுத்துவோர் சேர இயலாது (அண்மை விதியைச் சரிபார்க்கவும்).",
+   "en": "Age 18–40 with a bank account. Income-tax payers cannot join (check the latest rule)."
+  },
+  "docs": [
+   "aadhaar",
+   "bank",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "உங்கள் வங்கிக் கிளையில் அல்லது நெட் பேங்கிங் மூலம் சேரலாம்.",
+   "en": "Join at your bank branch or through net banking."
+  },
+  "url": "https://www.jansuraksha.gov.in",
+  "needs": [
+   "pension",
+   "savings"
+  ],
+  "keywords": [
+   "atal pension",
+   "அடல்",
+   "pension",
+   "ஓய்வூதியம்"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pmjjby",
+  "level": "central",
+  "category": "seniors",
+  "title": {
+   "ta": "பிரதமர் ஜீவன் ஜோதி பீமா யோஜனா (PMJJBY)",
+   "en": "PM Jeevan Jyoti Bima Yojana (PMJJBY)"
+  },
+  "dept": {
+   "ta": "வங்கிகள் / காப்பீட்டு நிறுவனங்கள்",
+   "en": "Banks / insurers"
+  },
+  "benefit": {
+   "ta": "ஆண்டுக்கு மிகக் குறைந்த பிரீமியத்தில் ₹2 லட்சம் ஆயுள் காப்பீடு.",
+   "en": "₹2 lakh life cover for a low annual premium."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": 50,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank"
+  ],
+  "apply": {
+   "ta": "உங்கள் வங்கிக் கணக்கு மூலம் தானியங்கிப் பிரீமியத்துடன் சேரலாம்.",
+   "en": "Join through your bank account with auto-debit of the premium."
+  },
+  "url": "https://www.jansuraksha.gov.in",
+  "needs": [
+   "insurance",
+   "savings"
+  ],
+  "keywords": [
+   "jeevan jyoti",
+   "life insurance",
+   "ஆயுள் காப்பீடு"
+  ],
+  "popularity": 5,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pmsby",
+  "level": "central",
+  "category": "seniors",
+  "title": {
+   "ta": "பிரதமர் சுரக்ஷா பீமா யோஜனா (PMSBY)",
+   "en": "PM Suraksha Bima Yojana (PMSBY)"
+  },
+  "dept": {
+   "ta": "வங்கிகள் / காப்பீட்டு நிறுவனங்கள்",
+   "en": "Banks / insurers"
+  },
+  "benefit": {
+   "ta": "விபத்து மரணம் / முழு ஊனத்துக்கு ₹2 லட்சம் வரை காப்பீடு; மிகக் குறைந்த ஆண்டுப் பிரீமியம்.",
+   "en": "Accident cover up to ₹2 lakh for death or total disability, for a very low annual premium."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": 70,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank"
+  ],
+  "apply": {
+   "ta": "உங்கள் வங்கியில் ஆண்டுதோறும் தானியங்கிப் பிரீமியத்துடன் சேரலாம்.",
+   "en": "Join at your bank with annual auto-debit."
+  },
+  "url": "https://www.jansuraksha.gov.in",
+  "needs": [
+   "insurance"
+  ],
+  "keywords": [
+   "suraksha bima",
+   "accident insurance",
+   "விபத்துக் காப்பீடு"
+  ],
+  "popularity": 5,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "mudra",
+  "level": "central",
+  "category": "business",
+  "title": {
+   "ta": "பிரதமர் முத்ரா கடன் (PMMY)",
+   "en": "PM MUDRA Yojana (PMMY)"
+  },
+  "dept": {
+   "ta": "MUDRA / வங்கிகள் & நிதி நிறுவனங்கள்",
+   "en": "MUDRA / banks and NBFCs"
+  },
+  "benefit": {
+   "ta": "சிறு தொழில்களுக்கு அடமானம் இல்லாத கடன் – சிசு, கிஷோர், தருண் பிரிவுகளில்.",
+   "en": "Collateral-free loans for small businesses in Shishu, Kishor and Tarun categories."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "selfemployed",
+    "unemployed",
+    "worker",
+    "homemaker",
+    "farmer"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "pan",
+   "bank",
+   "photo"
+  ],
+  "apply": {
+   "ta": "வங்கிக் கிளை அல்லது udyamimitra.in வழியாக விண்ணப்பம்; தொழில் திட்ட அறிக்கை தேவை.",
+   "en": "Apply at a bank branch or via udyamimitra.in with a simple business plan."
+  },
+  "url": "https://www.mudra.org.in",
+  "needs": [
+   "business",
+   "loan"
+  ],
+  "keywords": [
+   "mudra",
+   "முத்ரா",
+   "business loan",
+   "தொழில் கடன்"
+  ],
+  "popularity": 9,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pm-svanidhi",
+  "level": "central",
+  "category": "business",
+  "title": {
+   "ta": "பிரதமர் ஸ்வநிதி (தெருவோர வியாபாரிகள்)",
+   "en": "PM SVANidhi (street vendors)"
+  },
+  "dept": {
+   "ta": "வீட்டுவசதி & நகர்ப்புற விவகார அமைச்சகம்",
+   "en": "Ministry of Housing & Urban Affairs"
+  },
+  "benefit": {
+   "ta": "தெருவோர வியாபாரிகளுக்குச் சிறு பணி மூலதனக் கடன்; சரியாகத் திருப்பிச் செலுத்தினால் அடுத்த கடன்.",
+   "en": "A small working-capital loan for street vendors, with larger loans on timely repayment."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "selfemployed",
+    "worker"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "pmsvanidhi.mohua.gov.in அல்லது உங்கள் நகராட்சி / மாநகராட்சி அலுவலகம்.",
+   "en": "pmsvanidhi.mohua.gov.in or your municipality / corporation office."
+  },
+  "url": "https://pmsvanidhi.mohua.gov.in",
+  "needs": [
+   "business",
+   "loan"
+  ],
+  "keywords": [
+   "street vendor",
+   "svanidhi",
+   "தெருவோர"
+  ],
+  "popularity": 5,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pm-vishwakarma",
+  "level": "central",
+  "category": "business",
+  "title": {
+   "ta": "பிரதமர் விஸ்வகர்மா (கைவினைஞர்கள்)",
+   "en": "PM Vishwakarma (artisans)"
+  },
+  "dept": {
+   "ta": "MSME அமைச்சகம்",
+   "en": "Ministry of MSME"
+  },
+  "benefit": {
+   "ta": "பாரம்பரியக் கைவினைஞர்களுக்குப் பயிற்சி, கருவிப் பெட்டி, குறைந்த வட்டிக் கடன்.",
+   "en": "Training, a toolkit and low-interest credit for traditional artisans."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "selfemployed",
+    "worker"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "mobile",
+   "photo"
+  ],
+  "apply": {
+   "ta": "pmvishwakarma.gov.in அல்லது CSC மையம் வழியாகப் பதிவு.",
+   "en": "Register through pmvishwakarma.gov.in or a CSC."
+  },
+  "url": "https://pmvishwakarma.gov.in",
+  "needs": [
+   "business",
+   "skill",
+   "loan"
+  ],
+  "keywords": [
+   "vishwakarma",
+   "artisan",
+   "கைவினை",
+   "தச்சர்",
+   "தையல்"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "standup-india",
+  "level": "central",
+  "category": "business",
+  "title": {
+   "ta": "ஸ்டாண்ட்-அப் இந்தியா",
+   "en": "Stand-Up India"
+  },
+  "dept": {
+   "ta": "SIDBI / வங்கிகள்",
+   "en": "SIDBI / banks"
+  },
+  "benefit": {
+   "ta": "பட்டியல் சாதி / பழங்குடியினர், பெண் தொழில்முனைவோருக்குப் புதிய தொழில் தொடங்க ₹10 லட்சம் முதல் ₹1 கோடி வரை கடன்.",
+   "en": "Bank loans of ₹10 lakh to ₹1 crore for SC/ST and women entrepreneurs starting a new enterprise."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "SC/ST அல்லது பெண் தொழில்முனைவோர் (பெண்களுக்கு சமூகம் தடையில்லை).",
+   "en": "SC/ST or women entrepreneurs (women need not belong to a category)."
+  },
+  "docs": [
+   "aadhaar",
+   "pan",
+   "community",
+   "bank"
+  ],
+  "apply": {
+   "ta": "standupmitra.in வழியாக விண்ணப்பம்.",
+   "en": "Apply through standupmitra.in."
+  },
+  "url": "https://www.standupmitra.in",
+  "needs": [
+   "business",
+   "loan",
+   "women"
+  ],
+  "keywords": [
+   "standup",
+   "women entrepreneur",
+   "பெண் தொழில்முனைவோர்"
+  ],
+  "popularity": 4,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pmay-g",
+  "level": "central",
+  "category": "housing",
+  "title": {
+   "ta": "பிரதமர் ஆவாஸ் யோஜனா – கிராமம்",
+   "en": "PM Awaas Yojana – Gramin"
+  },
+  "dept": {
+   "ta": "ஊரக வளர்ச்சி அமைச்சகம்",
+   "en": "Ministry of Rural Development"
+  },
+  "benefit": {
+   "ta": "கிராமப்புறத்தில் வீடற்றோர் / கச்சா வீடுள்ளோருக்குப் பக்கா வீடு கட்ட நிதி உதவி.",
+   "en": "Financial help to build a pucca house for rural families without a house or in a kutcha house."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 300000,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "ration",
+   "bank",
+   "land"
+  ],
+  "apply": {
+   "ta": "கிராம ஊராட்சி / வட்டார வளர்ச்சி அலுவலகம் வழியாகப் பயனாளர் பட்டியலில் சேர்க்கப்படும்.",
+   "en": "Selection is through the gram panchayat / block development office beneficiary list."
+  },
+  "url": "https://rural.gov.in",
+  "needs": [
+   "housing"
+  ],
+  "keywords": [
+   "awas",
+   "house",
+   "வீடு",
+   "ஆவாஸ்"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pmay-u",
+  "level": "central",
+  "category": "housing",
+  "title": {
+   "ta": "பிரதமர் ஆவாஸ் யோஜனா – நகரம்",
+   "en": "PM Awaas Yojana – Urban"
+  },
+  "dept": {
+   "ta": "வீட்டுவசதி & நகர்ப்புற விவகார அமைச்சகம்",
+   "en": "Ministry of Housing & Urban Affairs"
+  },
+  "benefit": {
+   "ta": "நகர்ப்புற ஏழை, நடுத்தரக் குடும்பங்களுக்கு வீடு கட்ட / வாங்க வட்டி மானியம் அல்லது நிதி உதவி.",
+   "en": "Interest subsidy or financial help for urban poor and middle-income families to build or buy a house."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 1800000,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "income",
+   "bank",
+   "land"
+  ],
+  "apply": {
+   "ta": "pmay-urban.gov.in அல்லது உங்கள் நகராட்சி அலுவலகம்.",
+   "en": "pmay-urban.gov.in or your municipal office."
+  },
+  "url": "https://pmay-urban.gov.in",
+  "needs": [
+   "housing",
+   "loan"
+  ],
+  "keywords": [
+   "awas urban",
+   "home loan subsidy",
+   "வீட்டுக் கடன் மானியம்"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "ignoaps",
+  "level": "central",
+  "category": "seniors",
+  "title": {
+   "ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியம் (NSAP)",
+   "en": "Indira Gandhi National Old Age Pension (NSAP)"
+  },
+  "dept": {
+   "ta": "ஊரக வளர்ச்சி அமைச்சகம் / மாநில வருவாய்த் துறை",
+   "en": "Ministry of Rural Development / state revenue dept."
+  },
+  "benefit": {
+   "ta": "வறுமைக் கோட்டுக்குக் கீழுள்ள முதியோருக்கு மாதாந்திர ஓய்வூதியம்.",
+   "en": "A monthly pension for elderly people from poor (BPL) households."
+  },
+  "elig": {
+   "minAge": 60,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 100000,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "age",
+   "bank",
+   "ration",
+   "photo"
+  ],
+  "apply": {
+   "ta": "வட்டாட்சியர் (தாலுகா) அலுவலகம் அல்லது இ-சேவை மையத்தில் விண்ணப்பம்; UMANG செயலியிலும் NSAP சேவை உண்டு.",
+   "en": "Apply at the taluk office or an e-Sevai centre; the NSAP service is also on the UMANG app."
+  },
+  "url": "https://rural.gov.in",
+  "needs": [
+   "pension",
+   "money"
+  ],
+  "keywords": [
+   "old age pension",
+   "முதியோர் ஓய்வூதியம்",
+   "ignoaps",
+   "nsap"
+  ],
+  "popularity": 9,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "tn-oap",
+  "level": "state",
+  "category": "seniors",
+  "title": {
+   "ta": "தமிழ்நாடு முதியோர் உதவித்தொகை",
+   "en": "Tamil Nadu old-age assistance"
+  },
+  "dept": {
+   "ta": "வருவாய்த் துறை – தமிழ்நாடு அரசு",
+   "en": "Revenue Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "ஆதரவற்ற முதியோருக்கு மாதாந்திர உதவித்தொகை.",
+   "en": "Monthly assistance for destitute elderly people."
+  },
+  "elig": {
+   "minAge": 60,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": 100000,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "ஆதரவற்ற, வருமானம் இல்லாத முதியோர் என்பது முக்கிய நிபந்தனை.",
+   "en": "Destitute elderly with no means of support is the key condition."
+  },
+  "docs": [
+   "aadhaar",
+   "age",
+   "bank",
+   "ration",
+   "photo"
+  ],
+  "apply": {
+   "ta": "இ-சேவை மையம் அல்லது வட்டாட்சியர் அலுவலகத்தில் விண்ணப்பம்; கள ஆய்வுக்குப் பின் அனுமதி.",
+   "en": "Apply at an e-Sevai centre or taluk office; sanctioned after a field inquiry."
+  },
+  "url": "https://www.tnesevai.tn.gov.in",
+  "needs": [
+   "pension",
+   "money"
+  ],
+  "keywords": [
+   "முதியோர் உதவித்தொகை",
+   "old age pension tn",
+   "ஆதரவற்ற"
+  ],
+  "popularity": 8,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "udid",
+  "level": "central",
+  "category": "health",
+  "title": {
+   "ta": "மாற்றுத்திறனாளி தனித்துவ அடையாள அட்டை (UDID)",
+   "en": "Unique Disability ID (UDID)"
+  },
+  "dept": {
+   "ta": "மாற்றுத்திறனாளிகள் அதிகாரமளிப்புத் துறை",
+   "en": "Dept. of Empowerment of Persons with Disabilities"
+  },
+  "benefit": {
+   "ta": "நாடு முழுவதும் செல்லுபடியாகும் மாற்றுத்திறன் அடையாளம்; திட்டங்கள், சலுகைகளைப் பெற அடிப்படை.",
+   "en": "A nation-wide disability ID that is the basis for benefits and concessions."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "photo",
+   "disability",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "swavlambancard.gov.in-இல் விண்ணப்பித்து, மருத்துவ மதிப்பீட்டுக்குச் செல்ல வேண்டும்.",
+   "en": "Apply on swavlambancard.gov.in and attend the medical assessment."
+  },
+  "url": "https://www.swavlambancard.gov.in",
+  "needs": [
+   "health",
+   "money"
+  ],
+  "keywords": [
+   "udid",
+   "disability",
+   "மாற்றுத்திறனாளி",
+   "ஊனம்"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pudhumai-penn",
+  "level": "state",
+  "category": "education",
+  "title": {
+   "ta": "புதுமைப் பெண் திட்டம்",
+   "en": "Pudhumai Penn scheme"
+  },
+  "dept": {
+   "ta": "உயர்கல்வித் துறை – தமிழ்நாடு அரசு",
+   "en": "Higher Education Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "அரசுப் பள்ளியில் 6–12 படித்து உயர்கல்வி பயிலும் மாணவிகளுக்கு மாதம் ₹1,000 உதவித்தொகை.",
+   "en": "₹1,000 a month for girls who studied classes 6–12 in government schools and are in higher education."
+  },
+  "elig": {
+   "minAge": 16,
+   "maxAge": 30,
+   "gender": "female",
+   "occupations": [
+    "student"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "marks",
+   "photo"
+  ],
+  "apply": {
+   "ta": "படிக்கும் கல்லூரி வழியாக விண்ணப்பம்.",
+   "en": "Apply through the college you study in."
+  },
+  "url": "https://myscheme.gov.in/schemes/pudhumai-penn-scheme",
+  "needs": [
+   "education",
+   "money",
+   "women"
+  ],
+  "keywords": [
+   "pudhumai penn",
+   "புதுமைப் பெண்",
+   "1000 college girls"
+  ],
+  "popularity": 9,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "tamil-pudhalvan",
+  "level": "state",
+  "category": "education",
+  "title": {
+   "ta": "தமிழ்ப் புதல்வன் திட்டம்",
+   "en": "Tamil Pudhalvan scheme"
+  },
+  "dept": {
+   "ta": "உயர்கல்வித் துறை – தமிழ்நாடு அரசு",
+   "en": "Higher Education Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "அரசுப் பள்ளியில் 6–12 படித்து உயர்கல்வி பயிலும் மாணவர்களுக்கு மாதம் ₹1,000 உதவித்தொகை.",
+   "en": "₹1,000 a month for boys who studied classes 6–12 in government schools and are in higher education."
+  },
+  "elig": {
+   "minAge": 16,
+   "maxAge": 30,
+   "gender": "male",
+   "occupations": [
+    "student"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "marks",
+   "photo"
+  ],
+  "apply": {
+   "ta": "படிக்கும் கல்லூரி வழியாக விண்ணப்பம்.",
+   "en": "Apply through the college you study in."
+  },
+  "url": "https://www.tn.gov.in",
+  "needs": [
+   "education",
+   "money"
+  ],
+  "keywords": [
+   "tamil pudhalvan",
+   "தமிழ்ப் புதல்வன்"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "nsp-scholarships",
+  "level": "central",
+  "category": "education",
+  "title": {
+   "ta": "தேசிய உதவித்தொகைத் தளம் (NSP) – கல்வி உதவித்தொகைகள்",
+   "en": "National Scholarship Portal (NSP) – scholarships"
+  },
+  "dept": {
+   "ta": "கல்வி அமைச்சகம் / சமூக நீதி / சிறுபான்மையினர் நல அமைச்சகங்கள்",
+   "en": "Ministries of Education, Social Justice and Minority Affairs"
+  },
+  "benefit": {
+   "ta": "SC/ST/OBC, சிறுபான்மையினர், ஏழை மாணவர்களுக்கு மெட்ரிக்குக்குப் பிந்தைய உதவித்தொகைகள் – ஒரே தளத்தில்.",
+   "en": "Post-matric and other scholarships for SC/ST/OBC, minority and low-income students on a single portal."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "student"
+   ],
+   "maxIncome": 250000,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "உதவித்தொகைக்கு ஏற்ப வருமான வரம்பு, சமூகம், படிப்பு மாறும்; ₹2.5 லட்சம் பொதுவான வரம்பு (சில உதவித்தொகைகளில் வேறு).",
+   "en": "Income limit, community and course vary by scholarship; ₹2.5 lakh is a common limit (some differ)."
+  },
+  "docs": [
+   "aadhaar",
+   "bank",
+   "income",
+   "community",
+   "marks",
+   "photo"
+  ],
+  "apply": {
+   "ta": "scholarships.gov.in-இல் ஒருமுறைப் பதிவு (OTR) செய்து, தகுதியான உதவித்தொகைக்கு விண்ணப்பிக்கவும்; கல்வி நிறுவனம் சரிபார்க்கும்.",
+   "en": "Do one-time registration on scholarships.gov.in and apply; your institution verifies it."
+  },
+  "url": "https://scholarships.gov.in",
+  "needs": [
+   "education",
+   "money"
+  ],
+  "keywords": [
+   "scholarship",
+   "nsp",
+   "உதவித்தொகை",
+   "கல்வி உதவி"
+  ],
+  "popularity": 10,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "pm-vidyalaxmi",
+  "level": "central",
+  "category": "education",
+  "title": {
+   "ta": "பிரதமர் வித்யாலட்சுமி (கல்விக் கடன்)",
+   "en": "PM-Vidyalaxmi (education loan)"
+  },
+  "dept": {
+   "ta": "உயர்கல்வித் துறை – கல்வி அமைச்சகம்",
+   "en": "Dept. of Higher Education, Ministry of Education"
+  },
+  "benefit": {
+   "ta": "தகுதியுள்ள உயர்கல்வி நிறுவனங்களில் சேரும் மாணவர்களுக்கு அடமானம் / உத்தரவாதம் இல்லாத கல்விக் கடன் ஆதரவு.",
+   "en": "Collateral- and guarantor-free education-loan support for students admitted to eligible institutions."
+  },
+  "elig": {
+   "minAge": 17,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": [
+    "student"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "marks",
+   "income",
+   "photo"
+  ],
+  "apply": {
+   "ta": "pmvidyalaxmi.co.in-இல் பொது விண்ணப்பம்.",
+   "en": "Common application on pmvidyalaxmi.co.in."
+  },
+  "url": "https://pmvidyalaxmi.co.in",
+  "needs": [
+   "education",
+   "loan"
+  ],
+  "keywords": [
+   "education loan",
+   "கல்விக் கடன்",
+   "vidyalaxmi"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "tn-breakfast",
+  "level": "state",
+  "category": "education",
+  "title": {
+   "ta": "முதலமைச்சரின் காலை உணவுத் திட்டம்",
+   "en": "Chief Minister's Breakfast Scheme"
+  },
+  "dept": {
+   "ta": "பள்ளிக் கல்வித் துறை – தமிழ்நாடு அரசு",
+   "en": "School Education Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "அரசுத் தொடக்கப் பள்ளி மாணவர்களுக்குப் பள்ளியிலேயே இலவசக் காலை உணவு. தனி விண்ணப்பம் தேவையில்லை.",
+   "en": "Free breakfast at government primary schools. No separate application."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "அரசு / அரசு உதவி பெறும் தொடக்கப் பள்ளி மாணவர்கள் (பெற்றோருக்கான தகவல்).",
+   "en": "Students of government / aided primary schools (information for parents)."
+  },
+  "docs": [],
+  "apply": {
+   "ta": "குழந்தை படிக்கும் அரசுப் பள்ளியிலேயே கிடைக்கும்.",
+   "en": "Available in the government school your child attends."
+  },
+  "url": "https://www.tn.gov.in",
+  "needs": [
+   "education"
+  ],
+  "keywords": [
+   "breakfast",
+   "காலை உணவு",
+   "school food"
+  ],
+  "popularity": 5,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "naan-mudhalvan",
+  "level": "state",
+  "category": "jobs",
+  "title": {
+   "ta": "நான் முதல்வன் – திறன் மேம்பாடு",
+   "en": "Naan Mudhalvan – skill development"
+  },
+  "dept": {
+   "ta": "தமிழ்நாடு திறன் மேம்பாட்டுக் கழகம்",
+   "en": "Tamil Nadu Skill Development Corporation"
+  },
+  "benefit": {
+   "ta": "மாணவர்கள், இளைஞர்களுக்கு இலவசத் திறன் பயிற்சி, வேலைவாய்ப்பு வழிகாட்டல்.",
+   "en": "Free skill training and employability guidance for students and young people."
+  },
+  "elig": {
+   "minAge": 16,
+   "maxAge": 35,
+   "gender": "any",
+   "occupations": [
+    "student",
+    "unemployed"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "marks",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "naanmudhalvan.tn.gov.in-இல் பதிவு செய்யவும் அல்லது கல்லூரி வழியாக.",
+   "en": "Register on naanmudhalvan.tn.gov.in or through your college."
+  },
+  "url": "https://www.naanmudhalvan.tn.gov.in",
+  "needs": [
+   "skill",
+   "jobs",
+   "education"
+  ],
+  "keywords": [
+   "naan mudhalvan",
+   "நான் முதல்வன்",
+   "skill training",
+   "திறன் பயிற்சி"
+  ],
+  "popularity": 8,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "skill-india",
+  "level": "central",
+  "category": "jobs",
+  "title": {
+   "ta": "ஸ்கில் இந்தியா / பிரதமர் கௌஷல் விகாஸ் (PMKVY)",
+   "en": "Skill India / PM Kaushal Vikas Yojana (PMKVY)"
+  },
+  "dept": {
+   "ta": "திறன் மேம்பாடு & தொழில்முனைவு அமைச்சகம்",
+   "en": "Ministry of Skill Development & Entrepreneurship"
+  },
+  "benefit": {
+   "ta": "இளைஞர்களுக்கு அரசு அங்கீகாரச் சான்றிதழுடன் குறுகிய காலத் திறன் பயிற்சி.",
+   "en": "Short-term skill training with a government-recognised certificate for young people."
+  },
+  "elig": {
+   "minAge": 15,
+   "maxAge": 45,
+   "gender": "any",
+   "occupations": [
+    "student",
+    "unemployed",
+    "worker"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "photo"
+  ],
+  "apply": {
+   "ta": "skillindiadigital.gov.in-இல் பயிற்சி மையம் / படிப்பைத் தேர்ந்தெடுக்கவும்.",
+   "en": "Choose a course and centre on skillindiadigital.gov.in."
+  },
+  "url": "https://www.skillindiadigital.gov.in",
+  "needs": [
+   "skill",
+   "jobs"
+  ],
+  "keywords": [
+   "pmkvy",
+   "skill india",
+   "திறன்"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "tn-free-bus",
+  "level": "state",
+  "category": "women",
+  "title": {
+   "ta": "மகளிர் கட்டணமில்லாப் பேருந்துப் பயணம் (விடியல் பயணம்)",
+   "en": "Free bus travel for women (Vidiyal Payanam)"
+  },
+  "dept": {
+   "ta": "போக்குவரத்துத் துறை – தமிழ்நாடு அரசு",
+   "en": "Transport Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "நகரப் பேருந்துகளில் (குறிப்பிட்ட வகை) பெண்களுக்கு இலவசப் பயணம். விண்ணப்பம் இல்லை.",
+   "en": "Free travel for women on notified ordinary town buses. No application."
+  },
+  "elig": {
+   "minAge": null,
+   "maxAge": null,
+   "gender": "female",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [],
+  "apply": {
+   "ta": "பேருந்தில் ஏறிப் பயணம் செய்யலாம்; நடத்துநரிடம் விவரம் கேட்கலாம்.",
+   "en": "Just board; ask the conductor for details."
+  },
+  "url": "https://www.tn.gov.in",
+  "needs": [
+   "women"
+  ],
+  "keywords": [
+   "free bus",
+   "இலவசப் பேருந்து",
+   "மகளிர் பேருந்து",
+   "vidiyal"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "magalir-urimai",
+  "level": "state",
+  "category": "women",
+  "title": {
+   "ta": "மகளிர் உரிமைத் தொகை",
+   "en": "Magalir Urimai Thogai (women's entitlement)"
+  },
+  "dept": {
+   "ta": "வருவாய்த் துறை / சமூக நலத் துறை – தமிழ்நாடு அரசு",
+   "en": "Revenue / Social Welfare Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "தகுதியுள்ள குடும்பத் தலைவிக்கு மாதம் ₹1,000 வங்கிக் கணக்கில்.",
+   "en": "₹1,000 a month into the bank account of an eligible woman head of family."
+  },
+  "elig": {
+   "minAge": 21,
+   "maxAge": null,
+   "gender": "female",
+   "occupations": [
+    "homemaker",
+    "worker",
+    "selfemployed",
+    "farmer",
+    "unemployed",
+    "senior",
+    "other"
+   ],
+   "maxIncome": 250000,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "குடும்பத் தலைவி (ரேஷன் அட்டையில் பதிவு), ஆண்டு வருமானம், சொத்து வரம்புகள் உண்டு.",
+   "en": "Woman head of family (as on the ration card) with income and asset limits."
+  },
+  "docs": [
+   "aadhaar",
+   "ration",
+   "bank",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "அறிவிக்கப்படும் சிறப்பு முகாம்கள் அல்லது இ-சேவை மூலம் விண்ணப்பம்; மேல்முறையீட்டு வசதி உண்டு.",
+   "en": "Through announced camps or e-Sevai; an appeal option exists."
+  },
+  "url": "https://www.tn.gov.in",
+  "needs": [
+   "women",
+   "money"
+  ],
+  "keywords": [
+   "urimai",
+   "உரிமைத் தொகை",
+   "1000 rupees women",
+   "magalir"
+  ],
+  "popularity": 10,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ },
+ {
+  "id": "jan-dhan",
+  "level": "central",
+  "category": "business",
+  "title": {
+   "ta": "பிரதமர் ஜன் தன் வங்கிக் கணக்கு",
+   "en": "PM Jan Dhan bank account"
+  },
+  "dept": {
+   "ta": "நிதிச் சேவைகள் துறை",
+   "en": "Dept. of Financial Services"
+  },
+  "benefit": {
+   "ta": "குறைந்தபட்ச இருப்பு இல்லாத வங்கிக் கணக்கு; RuPay அட்டை, விபத்துக் காப்பீடு.",
+   "en": "A zero-balance bank account with a RuPay card and accident cover."
+  },
+  "elig": {
+   "minAge": 10,
+   "maxAge": null,
+   "gender": "any",
+   "occupations": null,
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "photo",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "எந்த வங்கிக் கிளையிலும் அல்லது வங்கி மித்ரா மூலம்.",
+   "en": "At any bank branch or via a Bank Mitra."
+  },
+  "url": "https://pmjdy.gov.in",
+  "needs": [
+   "savings"
+  ],
+  "keywords": [
+   "jan dhan",
+   "zero balance",
+   "ஜன் தன்",
+   "bank account"
+  ],
+  "popularity": 6,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "eshram",
+  "level": "central",
+  "category": "welfare",
+  "title": {
+   "ta": "இ-ஷ்ரம் – அமைப்புசாரா தொழிலாளர் பதிவு",
+   "en": "e-Shram – unorganised workers registration"
+  },
+  "dept": {
+   "ta": "தொழிலாளர் & வேலைவாய்ப்பு அமைச்சகம்",
+   "en": "Ministry of Labour & Employment"
+  },
+  "benefit": {
+   "ta": "அமைப்புசாராத் தொழிலாளர்களுக்கு அடையாள அட்டை, விபத்துக் காப்பீடு, எதிர்காலத் திட்டங்களுக்கான தரவுத்தளம்.",
+   "en": "An ID card, accident cover and entry into a database used for future welfare schemes."
+  },
+  "elig": {
+   "minAge": 16,
+   "maxAge": 59,
+   "gender": "any",
+   "occupations": [
+    "worker",
+    "farmer",
+    "selfemployed"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": {
+   "ta": "EPFO / ESIC உறுப்பினர், வருமான வரி செலுத்துவோர் அல்லாத அமைப்புசாராத் தொழிலாளர்.",
+   "en": "Unorganised workers who are not EPFO / ESIC members or income-tax payers."
+  },
+  "docs": [
+   "aadhaar",
+   "bank",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "eshram.gov.in-இல் ஆதார் OTP மூலம் அல்லது CSC-இல் இலவசப் பதிவு.",
+   "en": "Free registration on eshram.gov.in with an Aadhaar OTP or at a CSC."
+  },
+  "url": "https://eshram.gov.in",
+  "needs": [
+   "insurance",
+   "money"
+  ],
+  "keywords": [
+   "eshram",
+   "e-shram",
+   "இ-ஷ்ரம்",
+   "unorganised worker",
+   "கூலி"
+  ],
+  "popularity": 8,
+  "status": "active",
+  "lastVerified": null
+ },
+ {
+  "id": "tn-labour-welfare",
+  "level": "state",
+  "category": "welfare",
+  "title": {
+   "ta": "தமிழ்நாடு தொழிலாளர் நல வாரியங்கள்",
+   "en": "Tamil Nadu labour welfare boards"
+  },
+  "dept": {
+   "ta": "தொழிலாளர் நலத் துறை – தமிழ்நாடு அரசு",
+   "en": "Labour Welfare Dept., Government of Tamil Nadu"
+  },
+  "benefit": {
+   "ta": "பதிவு பெற்ற உடலுழைப்பு, கட்டுமானம் உள்ளிட்ட தொழிலாளர்களுக்குக் கல்வி, திருமணம், மகப்பேறு, ஓய்வூதிய உதவிகள்.",
+   "en": "Education, marriage, maternity and pension assistance for registered manual, construction and other workers."
+  },
+  "elig": {
+   "minAge": 18,
+   "maxAge": 60,
+   "gender": "any",
+   "occupations": [
+    "worker"
+   ],
+   "maxIncome": null,
+   "communities": null
+  },
+  "eligText": null,
+  "docs": [
+   "aadhaar",
+   "bank",
+   "photo",
+   "mobile"
+  ],
+  "apply": {
+   "ta": "labour.tn.gov.in-இல் வாரியத்தில் பதிவு செய்து அடையாள அட்டை பெறவும்.",
+   "en": "Register with the relevant board on labour.tn.gov.in and get an ID card."
+  },
+  "url": "https://labour.tn.gov.in",
+  "needs": [
+   "money",
+   "education"
+  ],
+  "keywords": [
+   "welfare board",
+   "நல வாரியம்",
+   "construction worker",
+   "கட்டுமானத் தொழிலாளி"
+  ],
+  "popularity": 7,
+  "status": "active",
+  "lastVerified": null,
+  "note": {
+   "ta": "தமிழ்நாட்டில் ஆட்சி மாற்றத்துக்குப் (மே 2026) பிறகு இத்திட்டத்தின் பெயர்/விதிகள் மாறியிருக்கலாம். விண்ணப்பிக்கும் முன் அதிகாரப்பூர்வ தளத்தில் உறுதிசெய்யவும்.",
+   "en": "Name or rules may have changed after the May 2026 change of government in Tamil Nadu. Confirm on the official site before applying."
+  }
+ }
+]

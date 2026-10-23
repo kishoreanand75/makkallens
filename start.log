@@ -1,0 +1,28 @@
+▲ Next.js 16.4.2
+- Local:         http://localhost:3000
+- Network:       http://192.168.29.163:3000
+✓ Ready in 174ms
+✓ Running next.config.ts took 36ms
+{"evt":"chat","t":1792567093230,"route":"scheme","cache":"miss","ms":2,"lang":"ta","qLen":18}
+{"evt":"chat","t":1792567112383,"route":"service","cache":"miss","ms":4,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112403,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112423,"route":"service","cache":"miss","ms":2,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112444,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112458,"route":"service","cache":"miss","ms":0,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112466,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112478,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112491,"route":"service","cache":"miss","ms":7,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112498,"route":"service","cache":"miss","ms":0,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112510,"route":"service","cache":"miss","ms":2,"lang":"en","qLen":10}
+{"evt":"chat","t":1792567112521,"route":"service","cache":"miss","ms":4,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112528,"route":"service","cache":"miss","ms":0,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112540,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112547,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112556,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112562,"route":"service","cache":"miss","ms":0,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112572,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112580,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112589,"route":"service","cache":"miss","ms":1,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567112595,"route":"service","cache":"miss","ms":0,"lang":"en","qLen":11}
+{"evt":"chat","t":1792567239094,"route":"fallback","cache":"miss","ms":6,"lang":"en","qLen":37}
+{"evt":"chat","t":1792567359339,"route":"political","cache":"miss","ms":3,"lang":"en","qLen":17}

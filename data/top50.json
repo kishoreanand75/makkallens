@@ -1,0 +1,255 @@
+{
+ "_note": "Curated order of the 50 services and schemes Tamil Nadu residents most need (demand signals: e-Sevai revenue-certificate catalogue, land records, ration/ID documents, the largest welfare and scholarship schemes). It is NOT Google search-volume data. Live visit counts re-rank it automatically once there is real traffic.",
+ "items": [
+  {
+   "rank": 1,
+   "type": "service",
+   "id": "community-certificate"
+  },
+  {
+   "rank": 2,
+   "type": "service",
+   "id": "income-certificate"
+  },
+  {
+   "rank": 3,
+   "type": "service",
+   "id": "ration-card"
+  },
+  {
+   "rank": 4,
+   "type": "service",
+   "id": "patta-chitta"
+  },
+  {
+   "rank": 5,
+   "type": "service",
+   "id": "aadhaar-card"
+  },
+  {
+   "rank": 6,
+   "type": "scheme",
+   "id": "magalir-urimai"
+  },
+  {
+   "rank": 7,
+   "type": "service",
+   "id": "birth-certificate"
+  },
+  {
+   "rank": 8,
+   "type": "service",
+   "id": "nativity-certificate"
+  },
+  {
+   "rank": 9,
+   "type": "scheme",
+   "id": "pm-kisan"
+  },
+  {
+   "rank": 10,
+   "type": "service",
+   "id": "eb-bill"
+  },
+  {
+   "rank": 11,
+   "type": "scheme",
+   "id": "pudhumai-penn"
+  },
+  {
+   "rank": 12,
+   "type": "scheme",
+   "id": "nsp-scholarships"
+  },
+  {
+   "rank": 13,
+   "type": "service",
+   "id": "first-graduate-certificate"
+  },
+  {
+   "rank": 14,
+   "type": "scheme",
+   "id": "cmchis"
+  },
+  {
+   "rank": 15,
+   "type": "service",
+   "id": "pan-card"
+  },
+  {
+   "rank": 16,
+   "type": "service",
+   "id": "driving-licence"
+  },
+  {
+   "rank": 17,
+   "type": "scheme",
+   "id": "pm-jay"
+  },
+  {
+   "rank": 18,
+   "type": "service",
+   "id": "voter-id"
+  },
+  {
+   "rank": 19,
+   "type": "scheme",
+   "id": "ignoaps"
+  },
+  {
+   "rank": 20,
+   "type": "scheme",
+   "id": "tn-oap"
+  },
+  {
+   "rank": 21,
+   "type": "service",
+   "id": "passport"
+  },
+  {
+   "rank": 22,
+   "type": "scheme",
+   "id": "pmfby"
+  },
+  {
+   "rank": 23,
+   "type": "scheme",
+   "id": "mudra"
+  },
+  {
+   "rank": 24,
+   "type": "scheme",
+   "id": "pmay-g"
+  },
+  {
+   "rank": 25,
+   "type": "scheme",
+   "id": "tn-breakfast"
+  },
+  {
+   "rank": 26,
+   "type": "scheme",
+   "id": "tamil-pudhalvan"
+  },
+  {
+   "rank": 27,
+   "type": "scheme",
+   "id": "naan-mudhalvan"
+  },
+  {
+   "rank": 28,
+   "type": "scheme",
+   "id": "tn-free-bus"
+  },
+  {
+   "rank": 29,
+   "type": "scheme",
+   "id": "pmmvy"
+  },
+  {
+   "rank": 30,
+   "type": "scheme",
+   "id": "tn-maternity"
+  },
+  {
+   "rank": 31,
+   "type": "service",
+   "id": "death-certificate"
+  },
+  {
+   "rank": 32,
+   "type": "service",
+   "id": "marriage-registration"
+  },
+  {
+   "rank": 33,
+   "type": "service",
+   "id": "encumbrance-certificate"
+  },
+  {
+   "rank": 34,
+   "type": "scheme",
+   "id": "sukanya"
+  },
+  {
+   "rank": 35,
+   "type": "scheme",
+   "id": "apy"
+  },
+  {
+   "rank": 36,
+   "type": "scheme",
+   "id": "eshram"
+  },
+  {
+   "rank": 37,
+   "type": "scheme",
+   "id": "tn-labour-welfare"
+  },
+  {
+   "rank": 38,
+   "type": "scheme",
+   "id": "kcc"
+  },
+  {
+   "rank": 39,
+   "type": "scheme",
+   "id": "pm-ujjwala"
+  },
+  {
+   "rank": 40,
+   "type": "scheme",
+   "id": "pmay-u"
+  },
+  {
+   "rank": 41,
+   "type": "scheme",
+   "id": "jan-dhan"
+  },
+  {
+   "rank": 42,
+   "type": "scheme",
+   "id": "udid"
+  },
+  {
+   "rank": 43,
+   "type": "scheme",
+   "id": "pm-vidyalaxmi"
+  },
+  {
+   "rank": 44,
+   "type": "scheme",
+   "id": "skill-india"
+  },
+  {
+   "rank": 45,
+   "type": "scheme",
+   "id": "pm-svanidhi"
+  },
+  {
+   "rank": 46,
+   "type": "scheme",
+   "id": "pm-vishwakarma"
+  },
+  {
+   "rank": 47,
+   "type": "scheme",
+   "id": "pmjjby"
+  },
+  {
+   "rank": 48,
+   "type": "scheme",
+   "id": "pmsby"
+  },
+  {
+   "rank": 49,
+   "type": "scheme",
+   "id": "standup-india"
+  },
+  {
+   "rank": 50,
+   "type": "scheme",
+   "id": "soil-health-card"
+  }
+ ]
+}

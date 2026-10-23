@@ -1,0 +1,197 @@
+[
+ {
+  "id": "aadhaar",
+  "name": {
+   "ta": "ஆதார் அட்டை",
+   "en": "Aadhaar card"
+  },
+  "service": "aadhaar-card",
+  "url": "https://myaadhaar.uidai.gov.in",
+  "tip": {
+   "ta": "மொபைல் எண் ஆதாருடன் இணைந்திருக்க வேண்டும்.",
+   "en": "Your mobile number should be linked to Aadhaar."
+  }
+ },
+ {
+  "id": "ration",
+  "name": {
+   "ta": "குடும்ப (ரேஷன்) அட்டை",
+   "en": "Family (ration) card"
+  },
+  "service": null,
+  "url": "https://www.tnpds.gov.in",
+  "tip": {
+   "ta": "tnpds.gov.in-இல் புதிய அட்டை / திருத்தம்.",
+   "en": "New card or correction on tnpds.gov.in."
+  }
+ },
+ {
+  "id": "bank",
+  "name": {
+   "ta": "வங்கிக் கணக்குப் புத்தகம் (ஆதார் இணைந்தது)",
+   "en": "Bank passbook (Aadhaar-linked)"
+  },
+  "service": null,
+  "url": null,
+  "tip": {
+   "ta": "உங்கள் வங்கிக் கிளையில் ஆதார், மொபைல் இணைப்பை உறுதிசெய்யுங்கள்.",
+   "en": "Confirm Aadhaar and mobile linking at your bank branch."
+  }
+ },
+ {
+  "id": "income",
+  "name": {
+   "ta": "வருமானச் சான்றிதழ்",
+   "en": "Income certificate"
+  },
+  "service": null,
+  "url": "https://www.tnesevai.tn.gov.in",
+  "tip": {
+   "ta": "இ-சேவை வழியாக வருவாய்த் துறை வழங்கும்.",
+   "en": "Issued by the Revenue Dept. through e-Sevai."
+  }
+ },
+ {
+  "id": "community",
+  "name": {
+   "ta": "சாதிச் சான்றிதழ்",
+   "en": "Community certificate"
+  },
+  "service": "community-certificate",
+  "url": "https://www.tnesevai.tn.gov.in",
+  "tip": {
+   "ta": "இ-சேவை வழியாக விண்ணப்பம்.",
+   "en": "Apply through e-Sevai."
+  }
+ },
+ {
+  "id": "birth",
+  "name": {
+   "ta": "பிறப்புச் சான்றிதழ்",
+   "en": "Birth certificate"
+  },
+  "service": "birth-certificate",
+  "url": "https://crstn.in",
+  "tip": {
+   "ta": "21 நாட்களுக்குள் பதிவு இலவசம்.",
+   "en": "Registration within 21 days is free."
+  }
+ },
+ {
+  "id": "age",
+  "name": {
+   "ta": "வயதுச் சான்று",
+   "en": "Age proof"
+  },
+  "service": "birth-certificate",
+  "url": "https://crstn.in",
+  "tip": {
+   "ta": "பிறப்புச் சான்றிதழ் அல்லது பள்ளி மாற்றுச் சான்று.",
+   "en": "Birth certificate or school transfer certificate."
+  }
+ },
+ {
+  "id": "marks",
+  "name": {
+   "ta": "மதிப்பெண் / கல்விச் சான்று",
+   "en": "Mark sheet / education certificate"
+  },
+  "service": null,
+  "url": null,
+  "tip": {
+   "ta": "பள்ளி / கல்லூரியில் நகல் பெறலாம்.",
+   "en": "Get duplicates from your school or college."
+  }
+ },
+ {
+  "id": "photo",
+  "name": {
+   "ta": "பாஸ்போர்ட் அளவு புகைப்படம்",
+   "en": "Passport-size photograph"
+  },
+  "service": null,
+  "url": null,
+  "tip": {
+   "ta": "சமீபத்திய புகைப்படம்.",
+   "en": "A recent photograph."
+  }
+ },
+ {
+  "id": "mobile",
+  "name": {
+   "ta": "ஆதாருடன் இணைந்த மொபைல் எண்",
+   "en": "Mobile number linked to Aadhaar"
+  },
+  "service": "aadhaar-card",
+  "url": "https://myaadhaar.uidai.gov.in",
+  "tip": {
+   "ta": "OTP பெற அவசியம்; இணைக்காவிட்டால் ஆதார் மையம் செல்லவும்.",
+   "en": "Needed for OTPs; visit an Aadhaar centre if not linked."
+  }
+ },
+ {
+  "id": "land",
+  "name": {
+   "ta": "பட்டா / சிட்டா (நில ஆவணம்)",
+   "en": "Patta / Chitta (land record)"
+  },
+  "service": null,
+  "url": "https://eservices.tn.gov.in",
+  "tip": {
+   "ta": "eservices.tn.gov.in-இல் பார்த்து நகல் எடுக்கலாம்.",
+   "en": "View and print on eservices.tn.gov.in."
+  }
+ },
+ {
+  "id": "disability",
+  "name": {
+   "ta": "மாற்றுத்திறனாளி அடையாள அட்டை (UDID)",
+   "en": "Disability ID (UDID)"
+  },
+  "service": null,
+  "url": "https://www.swavlambancard.gov.in",
+  "tip": {
+   "ta": "swavlambancard.gov.in-இல் விண்ணப்பம்.",
+   "en": "Apply on swavlambancard.gov.in."
+  }
+ },
+ {
+  "id": "pan",
+  "name": {
+   "ta": "பான் அட்டை",
+   "en": "PAN card"
+  },
+  "service": "pan-card",
+  "url": "https://www.incometax.gov.in",
+  "tip": {
+   "ta": "இ-பான் இலவசம்.",
+   "en": "Instant e-PAN is free."
+  }
+ },
+ {
+  "id": "address",
+  "name": {
+   "ta": "முகவரிச் சான்று",
+   "en": "Address proof"
+  },
+  "service": "aadhaar-card",
+  "url": "https://myaadhaar.uidai.gov.in",
+  "tip": {
+   "ta": "ஆதார், ரேஷன் அட்டை, மின் கட்டண ரசீது.",
+   "en": "Aadhaar, ration card or electricity bill."
+  }
+ },
+ {
+  "id": "voter",
+  "name": {
+   "ta": "வாக்காளர் அடையாள அட்டை",
+   "en": "Voter ID"
+  },
+  "service": null,
+  "url": "https://voters.eci.gov.in",
+  "tip": {
+   "ta": "voters.eci.gov.in-இல் புதிய பதிவு / திருத்தம்.",
+   "en": "New registration or correction on voters.eci.gov.in."
+  }
+ }
+]
